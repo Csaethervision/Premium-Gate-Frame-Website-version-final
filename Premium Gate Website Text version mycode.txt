@@ -1,0 +1,2525 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Premium Gate and Frame Prefabrications - Kenya's #1 Metal Supplier | Door Rollers, Welding Rods, Professional Tools</title><!-- SEO Meta Tags -->
+  <meta name="description" content="Kenya's fastest-growing metal supplier. Premium door rollers, HERO welding rods, grinding machines, cutting discs, gate decorations. Same-day Nairobi delivery, nationwide shipping. 200+ successful projects.">
+  <meta name="keywords" content="metal supplier Kenya, door rollers Kenya, welding rods Kenya, HERO welding rods, grinding machines Kenya, cutting discs Kenya, gate decorations Kenya, metal fabrication Kenya, construction materials Kenya, steel supplier Nairobi, welding equipment Kenya, professional tools Kenya, metal hardware Kenya, gate accessories Kenya, construction supplies Kenya">
+  <meta name="author" content="Premium Gate and Frame Prefabrications">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <meta name="geo.region" content="KE">
+  <meta name="geo.placename" content="Nairobi, Kenya">
+  <meta name="geo.position" content="-1.2921041;36.8219472">
+  <meta name="ICBM" content="-1.2921041, 36.8219472"><!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Premium Gate and Frame Prefabrications - Kenya's #1 Metal Supplier">
+  <meta property="og:description" content="Transform your construction projects with Kenya's most trusted metal supplier. Door rollers, welding rods, professional tools with same-day delivery in Nairobi.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://premiumgateandframe.co.ke">
+  <meta property="og:image" content="https://i.ibb.co/PZTVKczr/Copy-of-Copy-of-Neutral-Monochrome-Wireframe-Architecture-Business-Card.png">
+  <meta property="og:site_name" content="Premium Gate and Frame Prefabrications">
+  <meta property="og:locale" content="en_KE"><!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Premium Gate and Frame Prefabrications - Kenya's #1 Metal Supplier">
+  <meta name="twitter:description" content="Kenya's fastest-growing metal supplier. Premium door rollers, HERO welding rods, professional tools. Same-day Nairobi delivery.">
+  <meta name="twitter:image" content="https://i.ibb.co/PZTVKczr/Copy-of-Copy-of-Neutral-Monochrome-Wireframe-Architecture-Business-Card.png"><!-- Structured Data for Local Business -->
+  <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Premium Gate and Frame Prefabrications",
+        "description": "Kenya's fastest-growing metal supplier specializing in door rollers, welding rods, professional tools, and construction materials.",
+        "url": "https://premiumgateandframe.co.ke",
+        "telephone": "+254742388235",
+        "email": "gateandframe@gmail.com",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Kariobangi North",
+            "addressLocality": "Nairobi",
+            "addressCountry": "Kenya"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "-1.2921041",
+            "longitude": "36.8219472"
+        },
+        "openingHours": "Mo-Sa 07:00-19:00",
+        "priceRange": "$$",
+        "paymentAccepted": "Cash, M-Pesa, Bank Transfer",
+        "currenciesAccepted": "KES",
+        "areaServed": {
+            "@type": "Country",
+            "name": "Kenya"
+        },
+        "serviceArea": {
+            "@type": "Country",
+            "name": "Kenya"
+        },
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Metal Supplies and Construction Materials",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Product",
+                        "name": "Door Rollers and Wheels",
+                        "description": "High-quality door rollers for smooth gate operation, available in sizes 40mm-100mm"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Product",
+                        "name": "HERO Welding Rods",
+                        "description": "Professional welding supplies including HERO brand rods and equipment"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Product",
+                        "name": "Professional Tools and Machines",
+                        "description": "Grinding machines, drilling machines, cutting discs, and professional fabrication tools"
+                    }
+                }
+            ]
+        },
+        "sameAs": [
+            "https://www.instagram.com/gateandframe_kenya",
+            "https://www.facebook.com/share/17Lo6jUFTs/",
+            "https://www.tiktok.com/@gate.andframe"
+        ]
+    }
+    </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="/_sdk/element_sdk.js"></script>
+  <script>
+        // Element SDK Configuration for Editability
+        const defaultConfig = {
+            main_title: "Premium Gate & Frame Prefabrications",
+            hero_subtitle: "Transform your construction projects with Kenya's most trusted metal supplier in Nairobi. We deliver precision-engineered door rollers, welding rods, grinding machines, cutting discs, gate decorations, and comprehensive steel solutions that exceed industry standards across Kenya.",
+            cta_button_1: "Explore Our Products",
+            cta_button_2: "Get Instant Quote",
+            stat_1_number: "200+",
+            stat_1_label: "Successful Kenya Projects",
+            stat_2_number: "4-Month",
+            stat_2_label: "Rapid Growth Trajectory",
+            stat_3_number: "100%",
+            stat_3_label: "Precision Metal Guarantee",
+            stat_4_number: "24/7",
+            stat_4_label: "Dedicated Nairobi Support",
+            products_title: "Our Premium Products",
+            products_subtitle: "Discover our comprehensive range of precision-engineered metal solutions, crafted to meet the highest industry standards.",
+            about_title: "About Premium Gate and Frame",
+            about_subtitle: "Kenya's fastest-growing metal supplier, transforming construction timelines through precision, reliability, and uncompromising quality.",
+            quote_title: "Get Your Quote",
+            quote_subtitle: "Ready to transform your project? Get a custom quote from Kenya's most trusted metal supplier.",
+            primary_color: "#000000",
+            secondary_color: "#C0C0C0",
+            accent_color: "#ffffff",
+            text_color: "#333333",
+            background_color: "#f5f5f5"
+        };
+
+        async function onConfigChange(config) {
+            // Update main titles
+            const mainTitle = document.querySelector('.main-title');
+            if (mainTitle) mainTitle.textContent = config.main_title || defaultConfig.main_title;
+            
+            const heroSubtitle = document.querySelector('.hero-subtitle');
+            if (heroSubtitle) heroSubtitle.textContent = config.hero_subtitle || defaultConfig.hero_subtitle;
+            
+            // Update CTA buttons
+            const ctaBtn1 = document.querySelector('.cta-btn-1');
+            if (ctaBtn1) ctaBtn1.textContent = config.cta_button_1 || defaultConfig.cta_button_1;
+            
+            const ctaBtn2 = document.querySelector('.cta-btn-2');
+            if (ctaBtn2) ctaBtn2.textContent = config.cta_button_2 || defaultConfig.cta_button_2;
+            
+            // Update stats
+            const statNumbers = document.querySelectorAll('.stat-number');
+            const statLabels = document.querySelectorAll('.stat-label');
+            
+            if (statNumbers[0]) statNumbers[0].textContent = config.stat_1_number || defaultConfig.stat_1_number;
+            if (statLabels[0]) statLabels[0].textContent = config.stat_1_label || defaultConfig.stat_1_label;
+            if (statNumbers[1]) statNumbers[1].textContent = config.stat_2_number || defaultConfig.stat_2_number;
+            if (statLabels[1]) statLabels[1].textContent = config.stat_2_label || defaultConfig.stat_2_label;
+            if (statNumbers[2]) statNumbers[2].textContent = config.stat_3_number || defaultConfig.stat_3_number;
+            if (statLabels[2]) statLabels[2].textContent = config.stat_3_label || defaultConfig.stat_3_label;
+            if (statNumbers[3]) statNumbers[3].textContent = config.stat_4_number || defaultConfig.stat_4_number;
+            if (statLabels[3]) statLabels[3].textContent = config.stat_4_label || defaultConfig.stat_4_label;
+            
+            // Update page titles
+            const productsTitle = document.querySelector('.products-title');
+            if (productsTitle) productsTitle.textContent = config.products_title || defaultConfig.products_title;
+            
+            const productsSubtitle = document.querySelector('.products-subtitle');
+            if (productsSubtitle) productsSubtitle.textContent = config.products_subtitle || defaultConfig.products_subtitle;
+            
+            const aboutTitle = document.querySelector('.about-title');
+            if (aboutTitle) aboutTitle.textContent = config.about_title || defaultConfig.about_title;
+            
+            const aboutSubtitle = document.querySelector('.about-subtitle');
+            if (aboutSubtitle) aboutSubtitle.textContent = config.about_subtitle || defaultConfig.about_subtitle;
+            
+            const quoteTitle = document.querySelector('.quote-title');
+            if (quoteTitle) quoteTitle.textContent = config.quote_title || defaultConfig.quote_title;
+            
+            const quoteSubtitle = document.querySelector('.quote-subtitle');
+            if (quoteSubtitle) quoteSubtitle.textContent = config.quote_subtitle || defaultConfig.quote_subtitle;
+
+            // Update product images
+            const productImages = document.querySelectorAll('.product-icon-professional');
+            if (productImages[0] && config.product_1_image) {
+                if (config.product_1_image.startsWith('http')) {
+                    productImages[0].outerHTML = `<img src="${config.product_1_image}" alt="Product 1" class="product-icon-professional" style="object-fit: cover; border-radius: 10px;">`;
+                }
+            }
+            if (productImages[1] && config.product_2_image) {
+                if (config.product_2_image.startsWith('http')) {
+                    productImages[1].outerHTML = `<img src="${config.product_2_image}" alt="Product 2" class="product-icon-professional" style="object-fit: cover; border-radius: 10px;">`;
+                }
+            }
+            if (productImages[2] && config.product_3_image) {
+                if (config.product_3_image.startsWith('http')) {
+                    productImages[2].outerHTML = `<img src="${config.product_3_image}" alt="Product 3" class="product-icon-professional" style="object-fit: cover; border-radius: 10px;">`;
+                }
+            }
+            if (productImages[3] && config.product_4_image) {
+                if (config.product_4_image.startsWith('http')) {
+                    productImages[3].outerHTML = `<img src="${config.product_4_image}" alt="Product 4" class="product-icon-professional" style="object-fit: cover; border-radius: 10px;">`;
+                }
+            }
+            if (productImages[4] && config.product_5_image) {
+                if (config.product_5_image.startsWith('http')) {
+                    productImages[4].outerHTML = `<img src="${config.product_5_image}" alt="Product 5" class="product-icon-professional" style="object-fit: cover; border-radius: 10px;">`;
+                }
+            }
+            if (productImages[5] && config.product_6_image) {
+                if (config.product_6_image.startsWith('http')) {
+                    productImages[5].outerHTML = `<img src="${config.product_6_image}" alt="Product 6" class="product-icon-professional" style="object-fit: cover; border-radius: 10px;">`;
+                }
+            }
+            
+            // Update colors
+            const primaryColor = config.primary_color || defaultConfig.primary_color;
+            const secondaryColor = config.secondary_color || defaultConfig.secondary_color;
+            const accentColor = config.accent_color || defaultConfig.accent_color;
+            const textColor = config.text_color || defaultConfig.text_color;
+            const backgroundColor = config.background_color || defaultConfig.background_color;
+            
+            // Apply colors to elements
+            document.documentElement.style.setProperty('--primary-color', primaryColor);
+            document.documentElement.style.setProperty('--secondary-color', secondaryColor);
+            document.documentElement.style.setProperty('--accent-color', accentColor);
+            document.documentElement.style.setProperty('--text-color', textColor);
+            document.documentElement.style.setProperty('--background-color', backgroundColor);
+        }
+
+        function mapToCapabilities(config) {
+            return {
+                recolorables: [
+                    {
+                        get: () => config.primary_color || defaultConfig.primary_color,
+                        set: (value) => {
+                            config.primary_color = value;
+                            if (window.elementSdk) window.elementSdk.setConfig({ primary_color: value });
+                        }
+                    },
+                    {
+                        get: () => config.secondary_color || defaultConfig.secondary_color,
+                        set: (value) => {
+                            config.secondary_color = value;
+                            if (window.elementSdk) window.elementSdk.setConfig({ secondary_color: value });
+                        }
+                    },
+                    {
+                        get: () => config.accent_color || defaultConfig.accent_color,
+                        set: (value) => {
+                            config.accent_color = value;
+                            if (window.elementSdk) window.elementSdk.setConfig({ accent_color: value });
+                        }
+                    },
+                    {
+                        get: () => config.text_color || defaultConfig.text_color,
+                        set: (value) => {
+                            config.text_color = value;
+                            if (window.elementSdk) window.elementSdk.setConfig({ text_color: value });
+                        }
+                    },
+                    {
+                        get: () => config.background_color || defaultConfig.background_color,
+                        set: (value) => {
+                            config.background_color = value;
+                            if (window.elementSdk) window.elementSdk.setConfig({ background_color: value });
+                        }
+                    }
+                ],
+                borderables: [],
+                fontEditable: undefined,
+                fontSizeable: undefined
+            };
+        }
+
+        function mapToEditPanelValues(config) {
+            return new Map([
+                ["main_title", config.main_title || defaultConfig.main_title],
+                ["hero_subtitle", config.hero_subtitle || defaultConfig.hero_subtitle],
+                ["cta_button_1", config.cta_button_1 || defaultConfig.cta_button_1],
+                ["cta_button_2", config.cta_button_2 || defaultConfig.cta_button_2],
+                ["stat_1_number", config.stat_1_number || defaultConfig.stat_1_number],
+                ["stat_1_label", config.stat_1_label || defaultConfig.stat_1_label],
+                ["stat_2_number", config.stat_2_number || defaultConfig.stat_2_number],
+                ["stat_2_label", config.stat_2_label || defaultConfig.stat_2_label],
+                ["stat_3_number", config.stat_3_number || defaultConfig.stat_3_number],
+                ["stat_3_label", config.stat_3_label || defaultConfig.stat_3_label],
+                ["stat_4_number", config.stat_4_number || defaultConfig.stat_4_number],
+                ["stat_4_label", config.stat_4_label || defaultConfig.stat_4_label],
+                ["products_title", config.products_title || defaultConfig.products_title],
+                ["products_subtitle", config.products_subtitle || defaultConfig.products_subtitle],
+                ["about_title", config.about_title || defaultConfig.about_title],
+                ["about_subtitle", config.about_subtitle || defaultConfig.about_subtitle],
+                ["quote_title", config.quote_title || defaultConfig.quote_title],
+                ["quote_subtitle", config.quote_subtitle || defaultConfig.quote_subtitle],
+                ["logo_image", config.logo_image || "https://i.ibb.co/PZTVKczr/Copy-of-Copy-of-Neutral-Monochrome-Wireframe-Architecture-Business-Card.png"],
+                ["product_1_image", config.product_1_image || "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9ImN1cnJlbnRDb2xvciI+PGNpcmNsZSBjeD0iNzAiIGN5PSIxMDAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSI2Ii8+PGNpcmNsZSBjeD0iMTMwIiBjeT0iMTAwIiByPSIzMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iNiIvPjxwYXRoIGQ9Ik00MCA3MGgxMjBNNDAgMTMwaDE2MCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjcwIiBjeT0iMTAwIiByPSI4IiBmaWxsPSJjdXJyZW50Q29sb3IiLz48Y2lyY2xlIGN4PSIxMzAiIGN5PSIxMDAiIHI9IjgiIGZpbGw9ImN1cnJlbnRDb2xvciIvPjwvc3ZnPg=="],
+                ["product_2_image", config.product_2_image || "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9ImN1cnJlbnRDb2xvciI+PHBhdGggZD0iTTQwIDEwMGgxMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik01MCA5MGgxMDBNNTAgMTEwaDE2MCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjQwIiBjeT0iMTAwIiByPSIxMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjE2MCIgY3k9IjEwMCIgcj0iMTIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjMiLz48cGF0aCBkPSJNMTAwIDYwbC0xMCAyMGgyMGwtMTAgMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjQiIGZpbGw9Im5vbmUiLz48L3N2Zz4="],
+                ["product_3_image", config.product_3_image || "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9ImN1cnJlbnRDb2xvciI+PHJlY3QgeD0iNjAiIHk9IjgwIiB3aWR0aD0iODAiIGhlaWdodD0iNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjIwIiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIzIi8+PHBhdGggZD0iTTgwIDEwMGg0MCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0xMDAgODB2NDAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiLz48cGF0aCBkPSJNNTAgNjBoMTAwTTUwIDE0MGgxNjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjYiLz48L3N2Zz4="],
+                ["product_4_image", config.product_4_image || "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9ImN1cnJlbnRDb2xvciI+PHJlY3QgeD0iNDAiIHk9IjkwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjIwIiByeD0iMTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI1MCIgY3k9IjEwMCIgcj0iOCIgZmlsbD0iY3VycmVudENvbG9yIi8+PGNpcmNsZSBjeD0iMTUwIiBjeT0iMTAwIiByPSI4IiBmaWxsPSJjdXJyZW50Q29sb3IiLz48cGF0aCBkPSJNMTYwIDEwMGgyME0yMCAxMDBoMjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xMDAgNzB2NjAiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjMiLz48L3N2Zz4="],
+                ["product_5_image", config.product_5_image || "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9ImN1cnJlbnRDb2xvciI+PHJlY3QgeD0iNjAiIHk9IjYwIiB3aWR0aD0iODAiIGhlaWdodD0iODAiIHJ4PSIxNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iNCIvPjxjaXJjbGUgY3g9IjEwMCIgY3k9IjEwMCIgcj0iMjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjMiLz48cGF0aCBkPSJNMTAwIDc1djUwTTc1IDEwMGg1MCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIvPjxwYXRoIGQ9Ik0xMDAgNDB2MjBNMTAwIDE0MHYyMCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI4IiBmaWxsPSJjdXJyZW50Q29sb3IiLz48L3N2Zz4="],
+                ["product_6_image", config.product_6_image || "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9ImN1cnJlbnRDb2xvciI+PGNpcmNsZSBjeD0iNzAiIGN5PSI3MCIgcj0iMTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSIxMzAiIGN5PSI3MCIgcj0iMTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjQiLz48cmVjdCB4PSI2MCIgeT0iMTEwIiB3aWR0aD0iODAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iNCIvPjxwYXRoIGQ9Ik03MCA4NXYyNU0xMzAgODV2MjUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjQiLz48Y2lyY2xlIGN4PSI3MCIgY3k9IjcwIiByPSI1IiBmaWxsPSJjdXJyZW50Q29sb3IiLz48Y2lyY2xlIGN4PSIxMzAiIGN5PSI3MCIgcj0iNSIgZmlsbD0iY3VycmVudENvbG9yIi8+PC9zdmc+"]
+            ]);
+        }
+
+        // Initialize Element SDK
+        if (window.elementSdk) {
+            window.elementSdk.init({
+                defaultConfig,
+                onConfigChange,
+                mapToCapabilities,
+                mapToEditPanelValues
+            });
+        }
+    </script>
+  <style>
+        body {
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+            background: #000;
+            overflow-x: hidden;
+        }
+        
+        /* Enhanced Premium Logo Animations */
+        .premium-logo {
+            position: relative;
+            display: inline-block;
+            transition: all 1.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            filter: drop-shadow(0 0 30px rgba(192, 192, 192, 0.6));
+            transform-style: preserve-3d;
+            perspective: 1200px;
+            cursor: pointer;
+        }
+        
+        .premium-logo::before {
+            content: '';
+            position: absolute;
+            top: -15px;
+            left: -15px;
+            right: -15px;
+            bottom: -15px;
+            background: conic-gradient(from 0deg, transparent, rgba(192, 192, 192, 0.4), transparent, rgba(255, 255, 255, 0.3), transparent);
+            border-radius: 50%;
+            opacity: 0;
+            transition: all 0.8s ease;
+            z-index: -1;
+            animation: logoAura 4s linear infinite;
+        }
+        
+        @keyframes logoAura {
+            0% { transform: rotate(0deg) scale(1); opacity: 0; }
+            50% { opacity: 0.6; }
+            100% { transform: rotate(360deg) scale(1.1); opacity: 0; }
+        }
+        
+        .premium-logo:hover::before {
+            opacity: 1;
+            animation-duration: 2s;
+        }
+        
+        .premium-logo:hover {
+            transform: scale(1.4) rotateY(25deg) rotateX(15deg);
+            filter: drop-shadow(0 0 60px rgba(255, 255, 255, 0.9));
+            animation: logoQuantumFloat 4s ease-in-out infinite;
+        }
+        
+        @keyframes logoQuantumFloat {
+            0%, 100% { 
+                transform: scale(1.4) rotateY(25deg) rotateX(15deg) translateY(0px) translateZ(0px);
+                filter: drop-shadow(0 0 60px rgba(255, 255, 255, 0.9));
+            }
+            25% { 
+                transform: scale(1.45) rotateY(35deg) rotateX(20deg) translateY(-15px) translateZ(20px);
+                filter: drop-shadow(0 0 80px rgba(192, 192, 192, 1));
+            }
+            50% { 
+                transform: scale(1.5) rotateY(45deg) rotateX(25deg) translateY(-25px) translateZ(40px);
+                filter: drop-shadow(0 0 100px rgba(255, 255, 255, 1.2));
+            }
+            75% { 
+                transform: scale(1.45) rotateY(35deg) rotateX(20deg) translateY(-15px) translateZ(20px);
+                filter: drop-shadow(0 0 80px rgba(192, 192, 192, 1));
+            }
+        }
+        
+        .premium-logo img {
+            transition: all 1.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            transform-style: preserve-3d;
+            filter: drop-shadow(0 8px 25px rgba(0, 0, 0, 0.4));
+        }
+        
+        .premium-logo:active {
+            animation: logoQuantumBurst 1.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+        }
+        
+        @keyframes logoQuantumBurst {
+            0% { 
+                transform: scale(1.4) rotateY(25deg) rotateX(15deg);
+                filter: drop-shadow(0 0 60px rgba(255, 255, 255, 0.9));
+            }
+            15% { 
+                transform: scale(0.8) rotateY(180deg) rotateX(90deg) rotateZ(45deg);
+                filter: drop-shadow(0 0 0px transparent) brightness(2);
+            }
+            30% { 
+                transform: scale(1.8) rotateY(360deg) rotateX(180deg) rotateZ(90deg);
+                filter: drop-shadow(0 40px 80px rgba(192, 192, 192, 1.5)) brightness(2.5);
+            }
+            60% { 
+                transform: scale(0.6) rotateY(540deg) rotateX(270deg) rotateZ(135deg);
+                filter: drop-shadow(0 20px 40px rgba(255, 255, 255, 1)) brightness(1.8);
+            }
+            100% { 
+                transform: scale(1.4) rotateY(720deg) rotateX(360deg) rotateZ(180deg);
+                filter: drop-shadow(0 0 60px rgba(255, 255, 255, 0.9));
+            }
+        }
+        
+        /* Navigation */
+        .page-section {
+            display: none;
+            min-height: 100vh;
+            opacity: 0;
+            transform: translateY(50px);
+            transition: all 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            padding: 0;
+            margin: 0;
+        }
+        
+        .page-section.active {
+            display: block;
+            opacity: 1;
+            transform: translateY(0);
+        }
+        
+        /* Remove excessive spacing */
+        .container {
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+        }
+        
+        .py-32 {
+            padding-top: 4rem;
+            padding-bottom: 1rem;
+        }
+        
+        .py-20 {
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+        }
+        
+        .py-16 {
+            padding-top: 1.5rem;
+            padding-bottom: 1.5rem;
+        }
+
+        /* Fix scrolling issues */
+        html, body {
+            scroll-behavior: smooth;
+            overflow-x: hidden;
+        }
+
+        .page-section {
+            min-height: auto;
+            padding-bottom: 2rem;
+        }
+        
+        .nav-link {
+            position: relative;
+            transition: all 0.3s ease;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            color: white;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .nav-link:hover {
+            background: rgba(192, 192, 192, 0.1);
+            transform: translateY(-2px);
+        }
+        
+        .nav-link.active {
+            background: linear-gradient(135deg, rgba(192, 192, 192, 0.2), rgba(255, 255, 255, 0.1));
+            color: #C0C0C0;
+            font-weight: 600;
+        }
+        
+        /* Premium Cards */
+        .premium-stat-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(248, 248, 248, 0.95) 100%);
+            border: 1px solid rgba(192, 192, 192, 0.3);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+            transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+            padding: 2rem;
+            border-radius: 1rem;
+        }
+        
+        .premium-stat-card:hover {
+            transform: translateY(-20px) scale(1.08);
+            box-shadow: 0 60px 120px rgba(0, 0, 0, 0.4);
+        }
+        
+        .stat-number {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #000 0%, #333 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1;
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-weight: 500;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+        
+        /* Product Cards */
+        .product-showcase-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(248, 248, 248, 0.9) 100%);
+            border: 1px solid rgba(192, 192, 192, 0.2);
+            backdrop-filter: blur(15px);
+            border-radius: 1.5rem;
+            overflow: hidden;
+            transition: all 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            position: relative;
+        }
+        
+        .product-showcase-card:hover {
+            transform: translateY(-18px) scale(1.06);
+            box-shadow: 0 50px 100px rgba(0, 0, 0, 0.3);
+        }
+        
+        .product-hero-section {
+            height: 300px;
+            background: linear-gradient(135deg, #000 0%, #333 50%, #000 100%);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .product-icon-professional {
+            width: 120px;
+            height: 120px;
+            filter: drop-shadow(0 15px 35px rgba(0, 0, 0, 0.4));
+            position: relative;
+            z-index: 10;
+            flex-shrink: 0;
+        }
+        
+        /* Backgrounds */
+        .hero-premium-bg {
+            background: radial-gradient(ellipse at top center, rgba(192, 192, 192, 0.08) 0%, transparent 70%),
+                        linear-gradient(135deg, rgba(0, 0, 0, 0.98) 0%, rgba(32, 32, 32, 0.95) 30%, rgba(0, 0, 0, 0.99) 70%);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .products-premium-bg {
+            background: linear-gradient(135deg, rgba(248, 248, 248, 1) 0%, rgba(255, 255, 255, 0.98) 30%, rgba(250, 250, 250, 1) 70%);
+            position: relative;
+        }
+        
+        /* Buttons */
+        .cta-button-premium {
+            background: linear-gradient(135deg, #000 0%, #333 100%);
+            border: 2px solid rgba(192, 192, 192, 0.3);
+            color: white;
+            padding: 1rem 2.5rem;
+            border-radius: 0.75rem;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+        }
+        
+        .cta-button-premium:hover {
+            background: linear-gradient(135deg, #333 0%, #555 100%);
+            transform: translateY(-3px);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+        }
+
+        /* Enhanced CTA Buttons */
+        .cta-button-premium-enhanced {
+            background: linear-gradient(135deg, rgba(0, 0, 0, 0.95) 0%, rgba(32, 32, 32, 0.98) 50%, rgba(0, 0, 0, 0.95) 100%);
+            border: 3px solid rgba(192, 192, 192, 0.4);
+            color: white;
+            padding: 2rem 3rem;
+            border-radius: 1.5rem;
+            font-weight: 700;
+            font-size: 1.2rem;
+            transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 25px 60px rgba(0, 0, 0, 0.4);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            backdrop-filter: blur(20px);
+            min-width: 320px;
+        }
+
+        .cta-button-premium-enhanced::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            transition: left 0.8s ease;
+        }
+
+        .cta-button-premium-enhanced:hover::before {
+            left: 100%;
+        }
+
+        .cta-button-premium-enhanced:hover {
+            background: linear-gradient(135deg, rgba(32, 32, 32, 0.98) 0%, rgba(64, 64, 64, 1) 50%, rgba(32, 32, 32, 0.98) 100%);
+            transform: translateY(-8px) scale(1.05);
+            box-shadow: 0 40px 100px rgba(0, 0, 0, 0.6);
+            border-color: rgba(255, 255, 255, 0.6);
+        }
+
+        .cta-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, rgba(192, 192, 192, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
+            border: 2px solid rgba(192, 192, 192, 0.3);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.4s ease;
+            flex-shrink: 0;
+        }
+
+        .cta-button-premium-enhanced:hover .cta-icon {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.3) 0%, rgba(192, 192, 192, 0.2) 100%);
+            border-color: rgba(255, 255, 255, 0.5);
+            transform: rotate(360deg) scale(1.1);
+        }
+
+        .cta-content {
+            flex: 1;
+            text-align: left;
+        }
+
+        .cta-title {
+            font-size: 1.3rem;
+            font-weight: 800;
+            margin-bottom: 0.25rem;
+            background: linear-gradient(135deg, #ffffff 0%, #c0c0c0 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .cta-subtitle {
+            font-size: 0.9rem;
+            color: rgba(192, 192, 192, 0.8);
+            font-weight: 500;
+        }
+
+        .cta-arrow {
+            font-size: 2rem;
+            font-weight: 900;
+            transition: all 0.4s ease;
+            color: rgba(192, 192, 192, 0.7);
+        }
+
+        .cta-button-premium-enhanced:hover .cta-arrow {
+            transform: translateX(10px);
+            color: rgba(255, 255, 255, 1);
+        }
+        
+        /* Estimator */
+        .estimator-card {
+            background: linear-gradient(135deg, rgba(0, 0, 0, 0.95) 0%, rgba(32, 32, 32, 0.98) 30%, rgba(16, 16, 16, 0.96) 70%);
+            border: 2px solid rgba(192, 192, 192, 0.2);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.6);
+            border-radius: 1.5rem;
+            padding: 2rem;
+        }
+        
+        .estimator-dropdown {
+            background: linear-gradient(135deg, rgba(32, 32, 32, 0.9) 0%, rgba(48, 48, 48, 0.95) 50%);
+            border: 1px solid rgba(192, 192, 192, 0.3);
+            color: white;
+            padding: 0.75rem 1rem;
+            border-radius: 0.5rem;
+            width: 100%;
+        }
+
+        .estimator-dropdown option {
+            background: #2a2a2a;
+            color: white;
+            padding: 0.5rem;
+        }
+
+        .estimator-dropdown option:hover {
+            background: #3a3a3a;
+        }
+        
+        .estimator-dropdown:focus {
+            border-color: rgba(192, 192, 192, 0.6);
+            box-shadow: 0 0 25px rgba(192, 192, 192, 0.2);
+        }
+        
+        .price-display {
+            background: linear-gradient(135deg, rgba(192, 192, 192, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+            border: 1px solid rgba(192, 192, 192, 0.2);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            backdrop-filter: blur(10px);
+        }
+        
+        /* Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+        }
+        
+        .modal-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+        
+        .modal-content {
+            background: white;
+            border-radius: 1rem;
+            padding: 2rem;
+            max-width: 500px;
+            width: 90%;
+            max-height: 80vh;
+            overflow-y: auto;
+            transform: scale(0.8);
+            transition: transform 0.3s ease;
+        }
+        
+        .modal-overlay.active .modal-content {
+            transform: scale(1);
+        }
+        
+        /* Form Styles */
+        .form-input {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.5rem;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+        
+        .form-input:focus {
+            outline: none;
+            border-color: #000;
+            box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.1);
+        }
+        
+        .form-label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #374151;
+        }
+        
+        /* Toast Notifications */
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #10b981;
+            color: white;
+            padding: 1rem 1.5rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+            transform: translateX(400px);
+            transition: transform 0.3s ease;
+            z-index: 2000;
+        }
+        
+        .toast.show {
+            transform: translateX(0);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .stat-number {
+                font-size: 2rem;
+            }
+            
+            .premium-stat-card {
+                padding: 1.5rem;
+            }
+            
+            .product-hero-section {
+                height: 200px;
+            }
+            
+            .product-icon-professional {
+                width: 80px;
+                height: 80px;
+            }
+        }
+        
+        /* Loading States */
+        .loading {
+            opacity: 0.6;
+            pointer-events: none;
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: #fff;
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Footer Styles */
+        .social-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            color: white;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+        
+        .social-link:hover {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.1));
+            border-color: rgba(255, 255, 255, 0.4);
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        }
+        
+        .footer-link {
+            color: #d1d5db;
+            transition: all 0.3s ease;
+            background: none;
+            border: none;
+            cursor: pointer;
+            text-align: left;
+            padding: 0;
+        }
+        
+        .footer-link:hover {
+            color: white;
+            transform: translateX(5px);
+        }
+
+        /* Enhanced Chatbot Styles */
+        .chatbot-toggle {
+            width: 70px;
+            height: 70px;
+            background: linear-gradient(135deg, #000 0%, #333 50%, #000 100%);
+            border: 3px solid rgba(192, 192, 192, 0.4);
+            border-radius: 50%;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.4s ease;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+            position: relative;
+            overflow: hidden;
+            animation: chatbotPulse 3s ease-in-out infinite;
+        }
+        
+        @keyframes chatbotPulse {
+            0%, 100% { 
+                transform: scale(1);
+                box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3), 0 0 0 0 rgba(192, 192, 192, 0.4);
+            }
+            50% { 
+                transform: scale(1.05);
+                box-shadow: 0 12px 35px rgba(0, 0, 0, 0.4), 0 0 0 8px rgba(192, 192, 192, 0.1);
+            }
+        }
+        
+        .chatbot-toggle::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 6px;
+            height: 6px;
+            background: #c0c0c0;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            animation: chatbotDot 2s ease-in-out infinite;
+        }
+        
+        @keyframes chatbotDot {
+            0%, 100% { opacity: 0.3; transform: translate(-50%, -50%) scale(1); }
+            50% { opacity: 1; transform: translate(-50%, -50%) scale(1.5); }
+        }
+        
+        .chatbot-toggle:hover {
+            background: linear-gradient(135deg, #333 0%, #555 50%, #333 100%);
+            transform: translateY(-3px) scale(1.1);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+            border-color: rgba(192, 192, 192, 0.6);
+            animation: none;
+        }
+        
+        .chatbot-toggle:hover::before {
+            animation: none;
+            opacity: 1;
+            transform: translate(-50%, -50%) scale(2);
+        }
+        
+        .chatbot-window {
+            position: absolute;
+            bottom: 90px;
+            left: 0;
+            width: 380px;
+            height: 550px;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.98) 0%, rgba(248, 248, 248, 0.95) 100%);
+            border: 2px solid rgba(192, 192, 192, 0.3);
+            border-radius: 25px;
+            box-shadow: 0 30px 70px rgba(0, 0, 0, 0.25);
+            backdrop-filter: blur(25px);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            transform: scale(0.8) translateY(30px);
+            opacity: 0;
+            transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+        }
+        
+        .chatbot-window.show {
+            transform: scale(1) translateY(0);
+            opacity: 1;
+        }
+        
+        .chatbot-header {
+            background: linear-gradient(135deg, #000 0%, #333 50%, #000 100%);
+            padding: 1.5rem;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+        }
+        
+        .chatbot-header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, rgba(192, 192, 192, 0.5), transparent);
+        }
+        
+        .chatbot-messages {
+            flex: 1;
+            padding: 1.5rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .message {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+        
+        .bot-message .message-content {
+            background: linear-gradient(135deg, rgba(0, 0, 0, 0.06) 0%, rgba(0, 0, 0, 0.03) 100%);
+            border: 1px solid rgba(0, 0, 0, 0.12);
+            border-radius: 15px 15px 15px 5px;
+            padding: 1rem 1.25rem;
+            max-width: 85%;
+            color: #333;
+            font-size: 0.95rem;
+            line-height: 1.5;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+        }
+        
+        .user-message {
+            justify-content: flex-end;
+        }
+        
+        .user-message .message-content {
+            background: linear-gradient(135deg, #000 0%, #333 100%);
+            border-radius: 15px 15px 5px 15px;
+            padding: 1rem 1.25rem;
+            max-width: 85%;
+            color: white;
+            font-size: 0.95rem;
+            line-height: 1.5;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+        
+        .chatbot-quick-questions {
+            padding: 0 1.5rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+        
+        .quick-question-btn {
+            background: rgba(0, 0, 0, 0.06);
+            border: 1px solid rgba(0, 0, 0, 0.12);
+            border-radius: 25px;
+            padding: 0.6rem 1rem;
+            font-size: 0.85rem;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .quick-question-btn:hover {
+            background: rgba(0, 0, 0, 0.12);
+            color: #333;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .chatbot-input {
+            padding: 1.5rem;
+            border-top: 2px solid rgba(0, 0, 0, 0.08);
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+        }
+        
+        .chat-input {
+            flex: 1;
+            padding: 1rem 1.25rem;
+            border: 2px solid rgba(0, 0, 0, 0.15);
+            border-radius: 30px;
+            font-size: 0.95rem;
+            outline: none;
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.8);
+        }
+        
+        .chat-input:focus {
+            border-color: rgba(0, 0, 0, 0.3);
+            box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.08);
+            background: rgba(255, 255, 255, 1);
+        }
+        
+        .send-btn {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, #000 0%, #333 100%);
+            border: none;
+            border-radius: 50%;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .send-btn:hover {
+            background: linear-gradient(135deg, #333 0%, #555 100%);
+            transform: scale(1.1);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Simplified Custom Cursor with Metal Shine Effect */
+        .custom-cursor {
+            position: fixed;
+            top: 0;
+            left: 0;
+            pointer-events: none;
+            z-index: 9999;
+        }
+        
+        .cursor-dot {
+            width: 8px;
+            height: 8px;
+            background: linear-gradient(135deg, #c0c0c0 0%, #ffffff 50%, #c0c0c0 100%);
+            border-radius: 50%;
+            position: absolute;
+            transform: translate(-50%, -50%);
+            transition: all 0.15s ease;
+            box-shadow: 0 0 10px rgba(192, 192, 192, 0.3);
+        }
+        
+        .cursor-ring {
+            width: 24px;
+            height: 24px;
+            border: 1px solid rgba(192, 192, 192, 0.4);
+            border-radius: 50%;
+            position: absolute;
+            transform: translate(-50%, -50%);
+            transition: all 0.3s ease;
+        }
+        
+        /* Metal shine trail effect */
+        .cursor-shine {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            background: radial-gradient(circle, rgba(192, 192, 192, 0.08) 0%, transparent 70%);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .cursor-hover .cursor-dot {
+            transform: translate(-50%, -50%) scale(1.5);
+            background: linear-gradient(135deg, #ffffff 0%, #c0c0c0 50%, #ffffff 100%);
+            box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+        }
+        
+        .cursor-hover .cursor-ring {
+            transform: translate(-50%, -50%) scale(1.8);
+            border-color: rgba(255, 255, 255, 0.6);
+        }
+        
+        .cursor-hover .cursor-shine {
+            opacity: 1;
+        }
+        
+        .cursor-click .cursor-dot {
+            transform: translate(-50%, -50%) scale(0.8);
+        }
+        
+        .cursor-click .cursor-ring {
+            transform: translate(-50%, -50%) scale(2.2);
+            opacity: 0.3;
+        }
+
+        /* Professional Success Stories Section */
+        .success-story-card {
+            background: linear-gradient(135deg, rgba(32, 32, 32, 0.95) 0%, rgba(16, 16, 16, 0.98) 100%);
+            border: 1px solid rgba(192, 192, 192, 0.2);
+            border-radius: 20px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            backdrop-filter: blur(10px);
+            transition: all 0.4s ease;
+        }
+        
+        .success-story-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            border-color: rgba(192, 192, 192, 0.4);
+        }
+        
+        .story-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+        
+        .story-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, rgba(192, 192, 192, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
+            border: 2px solid rgba(192, 192, 192, 0.3);
+            border-radius: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 1.5rem;
+        }
+        
+        .cta-section {
+            background: linear-gradient(135deg, rgba(32, 32, 32, 0.98) 0%, rgba(16, 16, 16, 0.95) 100%);
+            border: 2px solid rgba(192, 192, 192, 0.25);
+            border-radius: 25px;
+            padding: 3rem;
+            text-align: center;
+            backdrop-filter: blur(15px);
+        }
+        
+        .cta-section h3 {
+            background: linear-gradient(135deg, #ffffff 0%, #c0c0c0 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        /* Hide default cursor on interactive elements */
+        body, a, button, input, textarea, select {
+            cursor: none;
+        }
+
+        /* Mobile cursor fallback */
+        @media (max-width: 768px) {
+            .custom-cursor {
+                display: none;
+            }
+            
+            body, a, button, input, textarea, select {
+                cursor: auto;
+            }
+        }
+    </style>
+  <style>@view-transition { navigation: auto; }</style>
+  <script src="/_sdk/data_sdk.js" type="text/javascript"></script>
+ </head>
+ <body class="bg-black text-white"><!-- Navigation -->
+  <nav class="bg-black text-white fixed w-full z-50 shadow-2xl border-b border-gray-800">
+   <div class="container mx-auto px-6 py-4">
+    <div class="flex justify-between items-center">
+     <div class="premium-logo"><a href="https://ibb.co/BV4YbyKf"> <img src="https://i.ibb.co/PZTVKczr/Copy-of-Copy-of-Neutral-Monochrome-Wireframe-Architecture-Business-Card.png" alt="Premium Gate and Frame Logo" border="0" class="h-20 w-auto"> </a>
+     </div>
+     <div class="hidden md:flex space-x-2"><button class="nav-link active" data-page="home">Home</button> <button class="nav-link" data-page="products">Products</button> <button class="nav-link" data-page="about">About</button> <button class="nav-link" data-page="quote">Get Quote</button>
+     </div><button id="mobileMenuBtn" class="md:hidden p-2">
+      <div class="w-6 h-0.5 bg-white mb-1.5 transition-all"></div>
+      <div class="w-6 h-0.5 bg-white mb-1.5 transition-all"></div>
+      <div class="w-6 h-0.5 bg-white transition-all"></div></button>
+    </div>
+    <div id="mobileMenu" class="md:hidden hidden mt-4 pb-4"><button class="nav-link block w-full text-left py-2 active" data-page="home">Home</button> <button class="nav-link block w-full text-left py-2" data-page="products">Products</button> <button class="nav-link block w-full text-left py-2" data-page="about">About</button> <button class="nav-link block w-full text-left py-2" data-page="quote">Get Quote</button>
+    </div>
+   </div>
+  </nav><!-- HOME PAGE -->
+  <section id="home-page" class="page-section active">
+   <div class="hero-premium-bg min-h-screen relative overflow-hidden">
+    <div class="container mx-auto px-6 py-32 relative z-10">
+     <div class="max-w-5xl mx-auto text-center">
+      <h1 class="text-6xl md:text-8xl font-black mb-8 leading-tight main-title"><span class="block" style="font-family: 'Playfair Display', serif;">Premium Gate</span> <span class="block text-gray-300">&amp; Frame Prefabrications</span></h1>
+      <p class="text-xl md:text-2xl mb-12 text-gray-300 max-w-4xl mx-auto leading-relaxed hero-subtitle">Transform your construction projects with Kenya's most trusted metal supplier in Nairobi. We deliver precision-engineered door rollers, welding rods, grinding machines, cutting discs, gate decorations, and comprehensive steel solutions that exceed industry standards across Kenya.</p>
+      <div class="flex flex-col sm:flex-row gap-8 justify-center items-center mb-16"><button class="cta-button-premium-enhanced cta-btn-1" onclick="navigateToPage('products')">
+        <div class="cta-icon">
+         <svg class="w-8 h-8" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+         </svg>
+        </div>
+        <div class="cta-content">
+         <div class="cta-title">
+          Explore Our Products
+         </div>
+         <div class="cta-subtitle">
+          Premium Metal Solutions
+         </div>
+        </div>
+        <div class="cta-arrow">
+         ↙
+        </div></button> <button class="cta-button-premium-enhanced cta-btn-2" onclick="navigateToPage('quote')">
+        <div class="cta-icon">
+         <svg class="w-8 h-8" fill="currentColor" viewbox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+         </svg>
+        </div>
+        <div class="cta-content">
+         <div class="cta-title">
+          Get Instant Quote
+         </div>
+         <div class="cta-subtitle">
+          Free Consultation
+         </div>
+        </div>
+        <div class="cta-arrow">
+         ↙
+        </div></button>
+      </div>
+     </div>
+    </div>
+   </div><!-- Stats Section -->
+   <div class="py-20 bg-white">
+    <div class="container mx-auto px-6">
+     <div class="grid md:grid-cols-4 gap-8">
+      <div class="premium-stat-card text-center">
+       <div class="stat-number">
+        200+
+       </div>
+       <div class="stat-label">
+        Successful Kenya Projects
+       </div>
+      </div>
+      <div class="premium-stat-card text-center">
+       <div class="stat-number">
+        4-Month
+       </div>
+       <div class="stat-label">
+        Rapid Growth Trajectory
+       </div>
+      </div>
+      <div class="premium-stat-card text-center">
+       <div class="stat-number">
+        100%
+       </div>
+       <div class="stat-label">
+        Precision Metal Guarantee
+       </div>
+      </div>
+      <div class="premium-stat-card text-center">
+       <div class="stat-number">
+        24/7
+       </div>
+       <div class="stat-label">
+        Dedicated Nairobi Support
+       </div>
+      </div>
+     </div>
+    </div>
+   </div><!-- Why Choose Us Section -->
+   <div class="py-20 bg-gradient-to-br from-gray-50 to-white">
+    <div class="container mx-auto px-6">
+     <div class="text-center mb-16">
+      <h2 class="text-4xl md:text-6xl font-black mb-6 text-black" style="font-family: 'Playfair Display', serif;">Why Kenya Trusts Us</h2>
+      <p class="text-xl text-gray-700 max-w-3xl mx-auto">From Nairobi to Mombasa, construction professionals choose Premium Gate and Frame for results that exceed expectations.</p>
+     </div>
+     <div class="grid lg:grid-cols-3 gap-12">
+      <div class="text-center group">
+       <div class="w-20 h-20 bg-gradient-to-br from-black to-gray-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
+        <svg class="w-10 h-10 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+        </svg>
+       </div>
+       <h3 class="text-2xl font-bold mb-4 text-black">Unmatched Quality</h3>
+       <p class="text-gray-600 leading-relaxed">Every product undergoes rigorous testing. Our HERO brand welding rods and precision door rollers are trusted by Kenya's top construction companies for their reliability and performance.</p>
+      </div>
+      <div class="text-center group">
+       <div class="w-20 h-20 bg-gradient-to-br from-black to-gray-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
+        <svg class="w-10 h-10 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M13 3c-4.97 0-9 4.03-9 9H1l3.89 3.89.07.14L9 12H6c0-3.87 3.13-7 7-7s7 3.13 7 7-3.13 7-7 7c-1.93 0-3.68-.79-4.94-2.06l-1.42 1.42C8.27 19.99 10.51 21 13 21c4.97 0 9-4.03 9-9s-4.03-9-9-9zm-1 5v5l4.28 2.54.72-1.21-3.5-2.08V8H12z" />
+        </svg>
+       </div>
+       <h3 class="text-2xl font-bold mb-4 text-black">Lightning Fast Delivery</h3>
+       <p class="text-gray-600 leading-relaxed">Same-day delivery in Nairobi, 1-2 days nationwide. Our strategic location in Kariobangi North ensures your projects never face delays. Time is money - we save you both.</p>
+      </div>
+      <div class="text-center group">
+       <div class="w-20 h-20 bg-gradient-to-br from-black to-gray-700 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
+        <svg class="w-10 h-10 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
+        </svg>
+       </div>
+       <h3 class="text-2xl font-bold mb-4 text-black">Proven Track Record</h3>
+       <p class="text-gray-600 leading-relaxed">3M KES in sales, 200+ successful projects, 4-month growth trajectory. Numbers don't lie - we're Kenya's fastest-growing metal supplier because we deliver results.</p>
+      </div>
+     </div>
+    </div>
+   </div><!-- Success Stories Section -->
+   <div class="py-20 bg-black text-white">
+    <div class="container mx-auto px-6">
+     <div class="text-center mb-16">
+      <h2 class="text-4xl md:text-6xl font-black mb-6 text-white" style="font-family: 'Playfair Display', serif;">Success Stories Across Kenya</h2>
+      <p class="text-xl text-gray-300 max-w-3xl mx-auto">Real projects, real results. See how Premium Gate and Frame transforms construction timelines.</p>
+     </div>
+     <div class="grid lg:grid-cols-2 gap-12 items-center">
+      <div>
+       <div class="success-story-card">
+        <div class="story-header">
+         <div class="story-icon">
+          <svg class="w-8 h-8 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z" />
+          </svg>
+         </div>
+         <h3 class="text-xl font-bold text-white success-story-1-title">Airport Landing Construction Project</h3>
+        </div>
+        <p class="text-gray-300 mb-4 success-story-1-description">We supplied products next to airport landing helping them complete 22 rooms of construction with bushes, iron doors size 1℅6, and 100s of discs for their welding machines. Zero complaints received - perfect execution within our short operational timeframe.</p>
+        <div class="text-sm text-gray-400"><strong>Delivered:</strong> 22 rooms completed | <strong>Value:</strong> KSh 850,000
+        </div>
+       </div>
+       <div class="success-story-card">
+        <div class="story-header">
+         <div class="story-icon">
+          <svg class="w-8 h-8 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
+          </svg>
+         </div>
+         <h3 class="text-xl font-bold text-white success-story-2-title">Million KSh Rapid Turnover Success</h3>
+        </div>
+        <p class="text-gray-300 mb-4 success-story-2-description">We've sold out items multiple times the minute they land from China - over 1 million KSh in rapid turnover! Quality delivery in record time, demonstrating our commitment to shaping Kenya's retail shops and infrastructure development.</p>
+        <div class="text-sm text-gray-400"><strong>Achievement:</strong> 1M+ KSh turnover | <strong>Impact:</strong> Kenya's Infrastructure
+        </div>
+       </div>
+      </div>
+      <div class="text-center">
+       <div class="cta-section">
+        <h3 class="text-3xl font-bold text-white mb-6">Ready to Join Our Success Stories?</h3>
+        <p class="text-gray-300 mb-8 text-lg">Don't let supply delays kill your project timeline. Join 200+ successful projects that chose Premium Gate and Frame for guaranteed results.</p>
+        <div class="space-y-4"><button onclick="navigateToPage('quote')" class="w-full bg-gradient-to-r from-gray-700 to-black hover:from-gray-600 hover:to-gray-900 text-white px-8 py-4 rounded-lg font-bold text-lg transition-all border border-gray-600 hover:border-gray-400"> Get Your Quote Now </button>
+         <p class="text-sm text-gray-400">Call +254 742 388 235 | WhatsApp Available | Same-Day Nairobi Delivery</p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section><!-- PRODUCTS PAGE -->
+  <section id="products-page" class="page-section">
+   <div class="products-premium-bg min-h-screen py-32">
+    <div class="container mx-auto px-6">
+     <div class="text-center mb-20">
+      <h1 class="text-5xl md:text-7xl font-black mb-6 text-black products-title" style="font-family: 'Playfair Display', serif;">Our Premium Products</h1>
+      <p class="text-xl text-gray-700 max-w-3xl mx-auto products-subtitle">Discover our comprehensive range of precision-engineered metal solutions, crafted to meet the highest industry standards.</p>
+     </div>
+     <div class="grid lg:grid-cols-3 gap-12 max-w-7xl mx-auto"><!-- Door Rollers & Wheels -->
+      <div class="product-showcase-card">
+       <div class="product-hero-section">
+        <svg class="product-icon-professional text-white" viewbox="0 0 200 200" fill="currentColor"><circle cx="70" cy="100" r="30" fill="none" stroke="currentColor" stroke-width="6" /> <circle cx="130" cy="100" r="30" fill="none" stroke="currentColor" stroke-width="6" /> <path d="M40 70h120M40 130h120" stroke="currentColor" stroke-width="4" /> <circle cx="70" cy="100" r="8" fill="currentColor" /> <circle cx="130" cy="100" r="8" fill="currentColor" />
+        </svg>
+       </div>
+       <div class="p-8">
+        <h3 class="text-2xl font-bold mb-4 text-black">Door Rollers &amp; Wheels</h3>
+        <p class="text-gray-600 mb-6 leading-relaxed">High-quality door rollers and wheels for smooth gate operation. Available in multiple sizes for different gate weights and applications.</p>
+        <div class="mb-6">
+         <div class="text-lg font-bold text-black mb-3">
+          Size Range &amp; Pricing:
+         </div>
+         <div class="text-sm text-gray-600 space-y-1">
+          <div>
+           40mm: <span class="font-semibold">KSh 200</span> | 50mm: <span class="font-semibold">KSh 250</span>
+          </div>
+          <div>
+           60mm: <span class="font-semibold">KSh 300</span> | 70mm: <span class="font-semibold">KSh 390</span>
+          </div>
+          <div>
+           80mm: <span class="font-semibold">KSh 400</span> | 90mm: <span class="font-semibold">KSh 550</span>
+          </div>
+          <div>
+           100mm: <span class="font-semibold">KSh 650</span>
+          </div>
+         </div>
+        </div>
+        <ul class="text-sm text-gray-600 mb-8 space-y-2">
+         <li>? Heavy-duty steel construction</li>
+         <li>? Smooth rolling operation</li>
+         <li>? Weather-resistant coating</li>
+         <li>? Multiple size options</li>
+        </ul>
+        <div class="flex gap-2"><button class="cta-button-premium flex-1" onclick="addToEstimator('Door Rollers &amp; Wheels')"> Add to Estimate </button> <button class="cta-button-premium flex-1" onclick="openQuoteModal('Door Rollers &amp; Wheels')"> Request Quote </button>
+        </div>
+       </div>
+      </div><!-- Welding Materials -->
+      <div class="product-showcase-card">
+       <div class="product-hero-section">
+        <svg class="product-icon-professional text-white" viewbox="0 0 200 200" fill="currentColor"><path d="M40 100h120" stroke="currentColor" stroke-width="8" stroke-linecap="round" /> <path d="M50 90h100M50 110h100" stroke="currentColor" stroke-width="3" /> <circle cx="40" cy="100" r="12" fill="none" stroke="currentColor" stroke-width="3" /> <circle cx="160" cy="100" r="12" fill="none" stroke="currentColor" stroke-width="3" /> <path d="M100 60l-10 20h20l-10 20" stroke="currentColor" stroke-width="4" fill="none" />
+        </svg>
+       </div>
+       <div class="p-8">
+        <h3 class="text-2xl font-bold mb-4 text-black">Welding Materials &amp; Equipment</h3>
+        <p class="text-gray-600 mb-6 leading-relaxed">Professional welding supplies including HERO brand rods and equipment. Everything you need for quality welding projects.</p>
+        <div class="mb-6">
+         <div class="text-lg font-bold text-black mb-3">
+          Available Products:
+         </div>
+         <div class="text-sm text-gray-600 space-y-1">
+          <div>
+           Welding Rod 2.5mm: <span class="font-semibold">KSh 500</span>
+          </div>
+          <div>
+           Welding Rod 3.2mm: <span class="font-semibold">KSh 1,000</span>
+          </div>
+          <div>
+           Welding Handles: <span class="font-semibold">KSh 150</span>
+          </div>
+          <div>
+           Welding Machine: <span class="font-semibold">KSh 8,000</span>
+          </div>
+         </div>
+        </div>
+        <ul class="text-sm text-gray-600 mb-8 space-y-2">
+         <li>? HERO brand quality</li>
+         <li>? Professional equipment</li>
+         <li>? Consistent arc stability</li>
+         <li>? Bulk pricing available</li>
+        </ul>
+        <div class="flex gap-2"><button class="cta-button-premium flex-1" onclick="addToEstimator('Welding Materials')"> Add to Estimate </button> <button class="cta-button-premium flex-1" onclick="openQuoteModal('Welding Materials')"> Request Quote </button>
+        </div>
+       </div>
+      </div><!-- Professional Tools -->
+      <div class="product-showcase-card">
+       <div class="product-hero-section">
+        <svg class="product-icon-professional text-white" viewbox="0 0 200 200" fill="currentColor"><rect x="60" y="80" width="80" height="40" fill="none" stroke="currentColor" stroke-width="4" /> <circle cx="100" cy="100" r="20" fill="none" stroke="currentColor" stroke-width="3" /> <path d="M80 100h40" stroke="currentColor" stroke-width="2" /> <path d="M100 80v40" stroke="currentColor" stroke-width="2" /> <path d="M50 60h100M50 140h100" stroke="currentColor" stroke-width="6" />
+        </svg>
+       </div>
+       <div class="p-8">
+        <h3 class="text-2xl font-bold mb-4 text-black">Professional Tools &amp; Machines</h3>
+        <p class="text-gray-600 mb-6 leading-relaxed">High-quality tools and machines for professional fabrication work. Reliable equipment for efficient and precise operations.</p>
+        <div class="mb-6">
+         <div class="text-lg font-bold text-black mb-3">
+          Equipment Range:
+         </div>
+         <div class="text-sm text-gray-600 space-y-1">
+          <div>
+           Grinding Machine: <span class="font-semibold">KSh 7,000</span>
+          </div>
+          <div>
+           Drilling Machines: <span class="font-semibold">KSh 3,000-3,500</span>
+          </div>
+          <div>
+           Spray Gun: <span class="font-semibold">KSh 1,500</span>
+          </div>
+          <div>
+           Cutting Discs: <span class="font-semibold">KSh 150-400</span>
+          </div>
+         </div>
+        </div>
+        <ul class="text-sm text-gray-600 mb-8 space-y-2">
+         <li>? Professional grade quality</li>
+         <li>? Durable construction</li>
+         <li>? Warranty included</li>
+         <li>? Technical support available</li>
+        </ul>
+        <div class="flex gap-2"><button class="cta-button-premium flex-1" onclick="addToEstimator('Professional Tools')"> Add to Estimate </button> <button class="cta-button-premium flex-1" onclick="openQuoteModal('Professional Tools')"> Request Quote </button>
+        </div>
+       </div>
+      </div><!-- Electrode Holders -->
+      <div class="product-showcase-card">
+       <div class="product-hero-section">
+        <svg class="product-icon-professional text-white" viewbox="0 0 200 200" fill="currentColor"><rect x="40" y="90" width="120" height="20" rx="10" fill="none" stroke="currentColor" stroke-width="4" /> <circle cx="50" cy="100" r="8" fill="currentColor" /> <circle cx="150" cy="100" r="8" fill="currentColor" /> <path d="M160 100h20M20 100h20" stroke="currentColor" stroke-width="6" stroke-linecap="round" /> <path d="M100 70v60" stroke="currentColor" stroke-width="3" />
+        </svg>
+       </div>
+       <div class="p-8">
+        <h3 class="text-2xl font-bold mb-4 text-black">Electrode Holders</h3>
+        <p class="text-gray-600 mb-6 leading-relaxed">Professional-grade electrode holders for welding applications. Available in different amperage ratings for various project needs.</p>
+        <div class="mb-6">
+         <div class="text-lg font-bold text-black mb-3">
+          Available Models:
+         </div>
+         <div class="text-sm text-gray-600 space-y-1">
+          <div>
+           500A Holder: <span class="font-semibold">KSh 800</span>
+          </div>
+          <div>
+           800A Holder: <span class="font-semibold">KSh 1,200</span>
+          </div>
+          <div>
+           Hand Grip (Workshop): <span class="font-semibold">KSh 300</span>
+          </div>
+         </div>
+        </div>
+        <ul class="text-sm text-gray-600 mb-8 space-y-2">
+         <li>? Heavy-duty construction</li>
+         <li>? Heat-resistant materials</li>
+         <li>? Ergonomic design</li>
+         <li>? Professional grade</li>
+        </ul>
+        <div class="flex gap-2"><button class="cta-button-premium flex-1" onclick="addToEstimator('Electrode Holders')"> Add to Estimate </button> <button class="cta-button-premium flex-1" onclick="openQuoteModal('Electrode Holders')"> Request Quote </button>
+        </div>
+       </div>
+      </div><!-- Paint Sprayers -->
+      <div class="product-showcase-card">
+       <div class="product-hero-section">
+        <svg class="product-icon-professional text-white" viewbox="0 0 200 200" fill="currentColor"><rect x="60" y="60" width="80" height="80" rx="15" fill="none" stroke="currentColor" stroke-width="4" /> <circle cx="100" cy="100" r="25" fill="none" stroke="currentColor" stroke-width="3" /> <path d="M100 75v50M75 100h50" stroke="currentColor" stroke-width="2" /> <path d="M100 40v20M100 140v20" stroke="currentColor" stroke-width="4" stroke-linecap="round" /> <circle cx="100" cy="100" r="8" fill="currentColor" />
+        </svg>
+       </div>
+       <div class="p-8">
+        <h3 class="text-2xl font-bold mb-4 text-black">Paint Sprayers</h3>
+        <p class="text-gray-600 mb-6 leading-relaxed">Electric and manual paint sprayers for professional finishing work. Suitable for various coating applications and surface treatments.</p>
+        <div class="mb-6">
+         <div class="text-lg font-bold text-black mb-3">
+          Available Types:
+         </div>
+         <div class="text-sm text-gray-600 space-y-1">
+          <div>
+           Compact Electric: <span class="font-semibold">KSh 2,500</span>
+          </div>
+          <div>
+           Industrial Large: <span class="font-semibold">KSh 4,500</span>
+          </div>
+          <div>
+           Manual Spray Gun: <span class="font-semibold">KSh 800</span>
+          </div>
+         </div>
+        </div>
+        <ul class="text-sm text-gray-600 mb-8 space-y-2">
+         <li>? Even coating distribution</li>
+         <li>? Adjustable spray patterns</li>
+         <li>? Easy maintenance</li>
+         <li>? Professional results</li>
+        </ul>
+        <div class="flex gap-2"><button class="cta-button-premium flex-1" onclick="addToEstimator('Paint Sprayers')"> Add to Estimate </button> <button class="cta-button-premium flex-1" onclick="openQuoteModal('Paint Sprayers')"> Request Quote </button>
+        </div>
+       </div>
+      </div><!-- Fasteners & Hardware -->
+      <div class="product-showcase-card">
+       <div class="product-hero-section">
+        <svg class="product-icon-professional text-white" viewbox="0 0 200 200" fill="currentColor"><circle cx="70" cy="70" r="15" fill="none" stroke="currentColor" stroke-width="4" /> <circle cx="130" cy="70" r="15" fill="none" stroke="currentColor" stroke-width="4" /> <rect x="60" y="110" width="80" height="20" rx="10" fill="none" stroke="currentColor" stroke-width="4" /> <path d="M70 85v25M130 85v25" stroke="currentColor" stroke-width="4" /> <circle cx="70" cy="70" r="5" fill="currentColor" /> <circle cx="130" cy="70" r="5" fill="currentColor" />
+        </svg>
+       </div>
+       <div class="p-8">
+        <h3 class="text-2xl font-bold mb-4 text-black">Fasteners &amp; Hardware</h3>
+        <p class="text-gray-600 mb-6 leading-relaxed">Complete range of bolts, screws, washers, and fastening hardware. Essential components for secure and reliable construction assemblies.</p>
+        <div class="mb-6">
+         <div class="text-lg font-bold text-black mb-3">
+          Product Range:
+         </div>
+         <div class="text-sm text-gray-600 space-y-1">
+          <div>
+           Expansion Bolts: <span class="font-semibold">KSh 50-150</span>
+          </div>
+          <div>
+           MDF/Gypsum Screws: <span class="font-semibold">KSh 800-1,000</span>
+          </div>
+          <div>
+           Washers &amp; Nuts: <span class="font-semibold">KSh 20-80</span>
+          </div>
+         </div>
+        </div>
+        <ul class="text-sm text-gray-600 mb-8 space-y-2">
+         <li>? Various sizes available</li>
+         <li>? Corrosion-resistant coating</li>
+         <li>? High tensile strength</li>
+         <li>? Bulk quantities available</li>
+        </ul>
+        <div class="flex gap-2"><button class="cta-button-premium flex-1" onclick="addToEstimator('Fasteners &amp; Hardware')"> Add to Estimate </button> <button class="cta-button-premium flex-1" onclick="openQuoteModal('Fasteners &amp; Hardware')"> Request Quote </button>
+        </div>
+       </div>
+      </div>
+     </div><!-- Smart Order Estimator -->
+     <div class="py-20 bg-gradient-to-br from-gray-900 via-black to-gray-800 mt-20 rounded-2xl">
+      <div class="container mx-auto px-6">
+       <div class="text-center mb-16">
+        <h2 class="text-4xl md:text-6xl font-black mb-6 text-white" style="font-family: 'Playfair Display', serif;">Smart Order Estimator</h2>
+        <p class="text-xl text-gray-300 max-w-3xl mx-auto">Get instant price estimates for your metal supply needs</p>
+       </div>
+       <div class="max-w-4xl mx-auto">
+        <div class="estimator-card">
+         <div class="grid md:grid-cols-3 gap-6 mb-8">
+          <div><label class="block text-sm font-medium mb-3 text-gray-300">Product Category</label> <select id="productCategory" class="estimator-dropdown"> <option value="">Select Category...</option> <option value="door-rollers">Door Rollers &amp; Wheels</option> <option value="welding">Welding Materials</option> <option value="tools">Professional Tools</option> <option value="electrode-holders">Electrode Holders</option> <option value="paint-sprayers">Paint Sprayers</option> <option value="fasteners">Fasteners &amp; Hardware</option> <option value="pipes">Pipes &amp; Holders</option> <option value="safety">Safety Equipment</option> <option value="decorative">Decorative Elements</option> </select>
+          </div>
+          <div><label class="block text-sm font-medium mb-3 text-gray-300">Size/Specification</label> <select id="productSize" class="estimator-dropdown" disabled> <option value="">Select Size...</option> </select>
+          </div>
+          <div><label class="block text-sm font-medium mb-3 text-gray-300">Quantity</label> <input type="number" id="productQuantity" min="1" placeholder="Enter quantity" class="estimator-dropdown">
+          </div>
+         </div>
+         <div class="text-center mb-6">
+          <div id="priceEstimate" class="price-display text-3xl font-bold text-white mb-2">
+           Select products to see estimate
+          </div>
+          <p class="text-sm text-gray-400">Prices are estimates. Contact us for exact quotes.</p>
+         </div>
+         <div class="text-center"><button onclick="openQuoteModal('Custom Order')" class="cta-button-premium"> Get Exact Quote </button>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div><!-- Payment Section -->
+     <div class="py-16 bg-gradient-to-br from-black via-gray-900 to-black mt-20 rounded-2xl">
+      <div class="container mx-auto px-6">
+       <div class="text-center mb-12">
+        <h2 class="text-4xl md:text-5xl font-black mb-6 text-white" style="font-family: 'Playfair Display', serif;">Pay Easily via Mpesa</h2>
+       </div>
+       <div class="max-w-2xl mx-auto">
+        <div class="bg-gradient-to-br from-gray-800 via-gray-900 to-black border border-gray-600 rounded-2xl p-8 text-center shadow-2xl">
+         <div class="mb-8">
+          <div class="text-2xl font-bold text-white mb-4">
+           <div class="mb-2">
+            Paybill: <span class="text-green-400">400200</span>
+           </div>
+           <div>
+            Account Number: <span class="text-green-400">1053562</span>
+           </div>
+          </div>
+         </div>
+         <div class="bg-gray-800 bg-opacity-50 rounded-lg p-6 mb-6">
+          <p class="text-gray-300 mb-4">All prices shown are approximate. Confirm before payment.</p><button onclick="window.open('tel:+254742388235', '_self')" class="bg-gradient-to-r from-gray-800 to-black hover:from-gray-700 hover:to-gray-900 text-white px-6 py-3 rounded-lg font-semibold transition-all border border-gray-600 hover:border-gray-400"> Call to Confirm Prices </button>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section><!-- ABOUT PAGE -->
+  <section id="about-page" class="page-section">
+   <div class="hero-premium-bg min-h-screen py-32">
+    <div class="container mx-auto px-6">
+     <div class="max-w-4xl mx-auto text-center mb-20">
+      <h1 class="text-5xl md:text-7xl font-black mb-8 text-white about-title" style="font-family: 'Playfair Display', serif;">About Premium Gate and Frame</h1>
+      <p class="text-xl text-gray-300 leading-relaxed about-subtitle">Kenya's fastest-growing metal supplier, transforming construction timelines through precision, reliability, and uncompromising quality.</p>
+     </div>
+     <div class="grid lg:grid-cols-2 gap-16 items-center">
+      <div class="text-white">
+       <h2 class="text-3xl font-bold mb-6">Our Story</h2>
+       <p class="text-gray-300 mb-6 leading-relaxed">Based in Kariobangi North, Nairobi, we have achieved remarkable growth in just 4-5 months, establishing ourselves as Kenya's most reliable metal supplier. Our recent success includes 3,000,000 KES in sales over the last 3 months, serving clients nationwide.</p>
+       <p class="text-gray-300 mb-8 leading-relaxed">As wholesale importers of rollers, welding rods including the trusted HERO brand, and comprehensive metal supplies, we deliver precision-engineered solutions that transform construction timelines and exceed industry standards.</p>
+       <div class="grid grid-cols-2 gap-6">
+        <div class="text-center p-4 bg-white bg-opacity-10 rounded-lg backdrop-blur-sm">
+         <div class="text-2xl font-bold text-white">
+          3M KES
+         </div>
+         <div class="text-sm text-gray-300">
+          Sales in 3 months
+         </div>
+        </div>
+        <div class="text-center p-4 bg-white bg-opacity-10 rounded-lg backdrop-blur-sm">
+         <div class="text-2xl font-bold text-white">
+          200+
+         </div>
+         <div class="text-sm text-gray-300">
+          Projects completed
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="bg-white bg-opacity-10 backdrop-blur-sm rounded-2xl p-8">
+       <h3 class="text-2xl font-bold text-white mb-6">Why Choose Us?</h3>
+       <ul class="space-y-4 text-gray-300">
+        <li class="flex items-start gap-3">
+         <div class="w-2 h-2 bg-white rounded-full mt-2 flex-shrink-0"></div><span><strong>Rapid Growth:</strong> 4-5 months of consistent expansion and client satisfaction</span></li>
+        <li class="flex items-start gap-3">
+         <div class="w-2 h-2 bg-gray-400 rounded-full mt-2 flex-shrink-0"></div><span><strong>Nationwide Coverage:</strong> Fast delivery across all regions of Kenya</span></li>
+        <li class="flex items-start gap-3">
+         <div class="w-2 h-2 bg-gray-300 rounded-full mt-2 flex-shrink-0"></div><span><strong>Quality Guarantee:</strong> 100% precision metal with comprehensive warranties</span></li>
+        <li class="flex items-start gap-3">
+         <div class="w-2 h-2 bg-white rounded-full mt-2 flex-shrink-0"></div><span><strong>24/7 Support:</strong> Dedicated Nairobi-based customer service team</span></li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section><!-- QUOTE PAGE -->
+  <section id="quote-page" class="page-section">
+   <div class="products-premium-bg min-h-screen py-32">
+    <div class="container mx-auto px-6">
+     <div class="max-w-4xl mx-auto text-center mb-16">
+      <h1 class="text-5xl md:text-7xl font-black mb-8 text-black quote-title" style="font-family: 'Playfair Display', serif;">Get Your Quote</h1>
+      <p class="text-xl text-gray-700 leading-relaxed quote-subtitle">Ready to transform your project? Get a custom quote from Kenya's most trusted metal supplier.</p>
+     </div>
+     <div class="grid lg:grid-cols-2 gap-16"><!-- Contact Information -->
+      <div>
+       <h2 class="text-3xl font-bold text-black mb-8">Contact Information</h2>
+       <div class="space-y-6 mb-12">
+        <div class="flex items-start gap-4 p-6 bg-white rounded-xl shadow-lg">
+         <div class="w-12 h-12 bg-black rounded-lg flex items-center justify-center flex-shrink-0">
+          <svg class="w-6 h-6 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
+          </svg>
+         </div>
+         <div>
+          <h3 class="font-semibold text-black mb-1">Location</h3>
+          <p class="text-gray-600">Kariobangi North, Nairobi, Kenya</p>
+         </div>
+        </div>
+       </div><!-- Social Media Links -->
+       <div class="mb-12">
+        <h3 class="text-xl font-bold text-black mb-4">Follow Us</h3>
+        <div class="flex gap-4"><a href="https://www.instagram.com/gateandframe_kenya?igsh=YmNkcmdubnRyOWM0" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 transition-all"> Instagram </a> <a href="https://www.facebook.com/share/17Lo6jUFTs/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 transition-all"> Facebook </a> <a href="https://www.tiktok.com/@gate.andframe?_t=ZM-90ya6fCoFkS&amp;_r=1" target="_blank" rel="noopener noreferrer" class="flex items-center gap-2 px-4 py-2 bg-black text-white rounded-lg hover:bg-gray-800 transition-all"> TikTok </a>
+        </div>
+       </div><!-- Map Section -->
+       <div>
+        <h3 class="text-xl font-bold text-black mb-4">Visit Our Location</h3>
+        <div class="bg-white rounded-xl p-6 shadow-lg">
+         <div class="rounded-lg overflow-hidden mb-4"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8193247236!2d36.8219472!3d-1.2921041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f15ce5afe9b91%3A0x9b2b1a6c690fee8!2sPremium%20Gate%20and%20Frame%20Prefabrications!5e0!3m2!1sen!2ske!4v1703123456789!5m2!1sen!2ske" width="100%" height="300" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
+         </div>
+         <div class="flex gap-3"><button onclick="window.open('https://www.google.com/maps/dir//Premium+Gate+and+Frame+Prefabrications,+Kariobangi+North,+Nairobi,+Kenya/@-1.2921041,36.8219472,17z', '_blank')" class="flex-1 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-semibold transition-all flex items-center justify-center gap-2">
+           <svg class="w-4 h-4" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
+           </svg> Get Directions </button> <button onclick="window.open('https://www.google.com/maps/place/Premium+Gate+and+Frame+Prefabrications/@-1.2921041,36.8219472,17z', '_blank')" class="flex-1 bg-gray-600 hover:bg-gray-700 text-white px-4 py-2 rounded-lg font-semibold transition-all flex items-center justify-center gap-2">
+           <svg class="w-4 h-4" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
+           </svg> View on Maps </button>
+         </div>
+        </div>
+       </div>
+      </div><!-- Quote Form -->
+      <div class="bg-white rounded-2xl p-8 shadow-lg">
+       <h2 class="text-2xl font-bold text-black mb-6">Request Your Quote</h2>
+       <div id="successMessage" class="hidden mb-6 p-4 bg-green-50 border border-green-200 rounded-lg">
+        <h4 class="font-bold text-green-800 mb-2">Quote Request Received!</h4>
+        <p class="text-green-700">Reference: <span id="orderReference" class="font-mono"></span></p>
+        <p class="text-green-700">We'll contact you within 24 hours with detailed pricing.</p>
+       </div>
+       <form id="quoteForm" action="https://formspree.io/f/myzbbnrg" method="POST">
+        <div class="grid md:grid-cols-2 gap-4 mb-4">
+         <div><label for="customerName" class="form-label">Full Name *</label> <input type="text" id="customerName" name="name" required class="form-input">
+         </div>
+         <div><label for="customerPhone" class="form-label">Phone Number *</label> <input type="tel" id="customerPhone" name="phone" required placeholder="+254..." class="form-input">
+         </div>
+        </div>
+        <div class="mb-4"><label for="customerEmail" class="form-label">Email Address *</label> <input type="email" id="customerEmail" name="email" required class="form-input">
+        </div>
+        <div class="mb-4"><label for="selectedProduct" class="form-label">Product Interest *</label> <select id="selectedProduct" name="product" required class="form-input" style="color: #000; background-color: #fff;"> <option value="" style="color: #666;">Select a product...</option> <option value="Door Rollers &amp; Wheels" style="color: #000;">Door Rollers &amp; Wheels</option> <option value="Welding Materials" style="color: #000;">Welding Materials</option> <option value="Professional Tools" style="color: #000;">Professional Tools</option> <option value="Electrode Holders" style="color: #000;">Electrode Holders</option> <option value="Paint Sprayers" style="color: #000;">Paint Sprayers</option> <option value="Fasteners &amp; Hardware" style="color: #000;">Fasteners &amp; Hardware</option> <option value="Safety Equipment" style="color: #000;">Safety Equipment</option> <option value="Decorative Elements" style="color: #000;">Decorative Elements</option> <option value="Custom Order" style="color: #000;">Custom Order</option> </select>
+        </div>
+        <div class="mb-6"><label for="projectDetails" class="form-label">Project Details</label> <textarea id="projectDetails" name="details" rows="4" placeholder="Tell us about your project requirements..." class="form-input" style="color: #000; background-color: #fff;"></textarea>
+        </div><button type="submit" class="cta-button-premium w-full" id="submitBtn"> <span id="submitText">Send Quote Request</span> <span id="submitSpinner" class="hidden spinner ml-2"></span> </button>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section><!-- Professional Footer -->
+  <footer class="bg-gradient-to-br from-black via-gray-900 to-black text-white py-16 border-t border-gray-800">
+   <div class="container mx-auto px-6">
+    <div class="grid lg:grid-cols-4 md:grid-cols-2 gap-12"><!-- Company Info -->
+     <div>
+      <div class="premium-logo mb-6"><a href="https://ibb.co/BV4YbyKf"> <img src="https://i.ibb.co/PZTVKczr/Copy-of-Copy-of-Neutral-Monochrome-Wireframe-Architecture-Business-Card.png" alt="Premium Gate and Frame Logo" border="0" class="h-16 w-auto"> </a>
+      </div>
+      <h3 class="text-xl font-bold mb-4 text-white">Premium Gate and Frame</h3>
+      <p class="text-gray-300 mb-6 leading-relaxed footer-description">Kenya's fastest-growing metal supplier, transforming construction timelines through precision, reliability, and uncompromising quality.</p>
+      <div class="flex gap-4"><a href="https://www.instagram.com/gateandframe_kenya?igsh=YmNkcmdubnRyOWM0" target="_blank" rel="noopener noreferrer" class="social-link">
+        <svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+        </svg></a> <a href="https://www.facebook.com/share/17Lo6jUFTs/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" class="social-link">
+        <svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
+        </svg></a> <a href="https://www.tiktok.com/@gate.andframe?_t=ZM-90ya6fCoFkS&amp;_r=1" target="_blank" rel="noopener noreferrer" class="social-link">
+        <svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-5.2 1.74 2.89 2.89 0 012.31-4.64 2.93 2.93 0 01.88.13V9.4a6.84 6.84 0 00-.88-.05A6.33 6.33 0 005 20.1a6.34 6.34 0 0010.86-4.43v-7a8.16 8.16 0 004.77 1.52v-3.4a4.85 4.85 0 01-1-.1z" />
+        </svg></a> <a href="https://wa.me/254742388235" target="_blank" rel="noopener noreferrer" class="social-link">
+        <svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.885 3.488" />
+        </svg></a>
+      </div>
+     </div><!-- Quick Links -->
+     <div>
+      <h3 class="text-xl font-bold mb-6 text-white">Quick Links</h3>
+      <ul class="space-y-3">
+       <li><button onclick="navigateToPage('home')" class="footer-link">Home</button></li>
+       <li><button onclick="navigateToPage('products')" class="footer-link">Products</button></li>
+       <li><button onclick="navigateToPage('about')" class="footer-link">About Us</button></li>
+       <li><button onclick="navigateToPage('quote')" class="footer-link">Get Quote</button></li>
+       <li><a href="#newsletter" class="footer-link">Newsletter</a></li>
+      </ul>
+     </div><!-- Contact Info -->
+     <div>
+      <h3 class="text-xl font-bold mb-6 text-white">Contact Information</h3>
+      <div class="space-y-4">
+       <div class="flex items-start gap-3">
+        <svg class="w-5 h-5 text-gray-400 mt-1 flex-shrink-0" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
+        </svg>
+        <div>
+         <p class="text-white font-semibold">Location</p>
+         <p class="text-gray-300">Kariobangi North, Nairobi, Kenya</p>
+        </div>
+       </div>
+       <div class="flex items-start gap-3">
+        <svg class="w-5 h-5 text-gray-400 mt-1 flex-shrink-0" fill="currentColor" viewbox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" />
+        </svg>
+        <div>
+         <p class="text-white font-semibold">Phone</p>
+         <p class="text-gray-300">+254 742 388 235</p>
+        </div>
+       </div>
+       <div class="flex items-start gap-3">
+        <svg class="w-5 h-5 text-gray-400 mt-1 flex-shrink-0" fill="currentColor" viewbox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
+        </svg>
+        <div>
+         <p class="text-white font-semibold">Email</p>
+         <p class="text-gray-300">gateandframe@gmail.com</p>
+        </div>
+       </div>
+      </div>
+     </div><!-- Newsletter Signup -->
+     <div id="newsletter">
+      <h3 class="text-xl font-bold mb-6 text-white newsletter-title">Weekly Product Updates</h3>
+      <p class="text-gray-300 mb-6 newsletter-description">Get exclusive access to hot products, special deals, and industry insights delivered weekly.</p>
+      <form id="newsletterForm" action="https://formspree.io/f/myzbbnrg" method="POST" class="space-y-4"><input type="hidden" name="type" value="newsletter">
+       <div><input type="email" name="email" placeholder="Enter your email address" required class="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white placeholder-gray-400 focus:border-gray-400 focus:outline-none transition-all">
+       </div><button type="submit" class="w-full bg-gradient-to-r from-gray-700 to-black hover:from-gray-600 hover:to-gray-900 text-white px-6 py-3 rounded-lg font-semibold transition-all border border-gray-600 hover:border-gray-400"> <span class="newsletter-btn-text">Subscribe to Updates</span> <span class="newsletter-spinner hidden spinner ml-2"></span> </button>
+      </form>
+      <div id="newsletterSuccess" class="hidden mt-4 p-3 bg-green-900 bg-opacity-50 border border-green-600 rounded-lg">
+       <p class="text-green-300 text-sm">? Successfully subscribed! Check your email for confirmation.</p>
+      </div>
+     </div>
+    </div><!-- Payment Info -->
+    <div class="border-t border-gray-800 mt-12 pt-8">
+     <div class="text-center">
+      <h3 class="text-xl font-bold mb-4 text-white">Mpesa Payment Information</h3>
+      <div class="flex flex-col sm:flex-row justify-center items-center gap-8">
+       <div class="text-center">
+        <p class="text-gray-300 mb-1">Paybill Number</p>
+        <p class="text-2xl font-bold text-green-400">400200</p>
+       </div>
+       <div class="text-center">
+        <p class="text-gray-300 mb-1">Account Number</p>
+        <p class="text-2xl font-bold text-green-400">1053562</p>
+       </div>
+      </div>
+     </div>
+    </div><!-- Copyright -->
+    <div class="border-t border-gray-800 mt-8 pt-8 text-center">
+     <p class="text-gray-400">? 2024 Premium Gate and Frame Prefabrications. All rights reserved. | Kenya's #1 Metal Supplier | Transforming Construction Excellence</p>
+    </div>
+   </div>
+  </footer><!-- Quote Modal -->
+  <div id="quoteModal" class="modal-overlay">
+   <div class="modal-content">
+    <div class="flex justify-between items-center mb-6">
+     <h3 class="text-xl font-bold text-black">Quick Quote Request</h3><button onclick="closeQuoteModal()" class="text-gray-500 hover:text-gray-700">
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg></button>
+    </div>
+    <form id="quickQuoteForm" action="https://formspree.io/f/myzbbnrg" method="POST"><input type="hidden" id="modalProduct" name="product" value="">
+     <div class="mb-4"><label for="modalName" class="form-label">Full Name *</label> <input type="text" id="modalName" name="name" required class="form-input">
+     </div>
+     <div class="mb-4"><label for="modalPhone" class="form-label">Phone Number *</label> <input type="tel" id="modalPhone" name="phone" required class="form-input">
+     </div>
+     <div class="mb-4"><label for="modalEmail" class="form-label">Email Address *</label> <input type="email" id="modalEmail" name="email" required class="form-input">
+     </div>
+     <div class="mb-6"><label for="modalQuantity" class="form-label">Quantity Needed</label> <input type="number" id="modalQuantity" name="quantity" min="1" class="form-input">
+     </div>
+     <div class="flex gap-3"><button type="button" onclick="closeQuoteModal()" class="flex-1 px-4 py-2 border border-gray-300 rounded-lg hover:bg-gray-50 transition-all"> Cancel </button> <button type="submit" class="flex-1 cta-button-premium"> Send Request </button>
+     </div>
+    </form>
+   </div>
+  </div><!-- Enhanced AI Chatbot -->
+  <div id="chatbot" class="fixed bottom-6 left-6 z-50"><!-- Chat Toggle Button --> <button id="chatToggle" class="chatbot-toggle">
+    <svg class="w-6 h-6 chat-icon" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.94-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" />
+    </svg>
+    <svg class="w-6 h-6 close-icon hidden" fill="currentColor" viewbox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z" />
+    </svg></button> <!-- Chat Window -->
+   <div id="chatWindow" class="chatbot-window hidden">
+    <div class="chatbot-header">
+     <div class="flex items-center gap-3">
+      <div class="w-12 h-12 bg-gradient-to-br from-gray-700 to-black rounded-full flex items-center justify-center">
+       <svg class="w-6 h-6 text-white" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
+       </svg>
+      </div>
+      <div>
+       <h4 class="font-bold text-white">Premium Assistant</h4>
+       <p class="text-xs text-gray-300">Professional Support</p>
+      </div>
+     </div>
+    </div>
+    <div id="chatMessages" class="chatbot-messages">
+     <div class="message bot-message">
+      <div class="message-content">
+       <p>Welcome to Premium Gate and Frame! I'm here to help you find the perfect metal solutions for your project.</p>
+       <p class="mt-2">What can I help you with today?</p>
+      </div>
+     </div>
+    </div>
+    <div class="chatbot-quick-questions"><button class="quick-question-btn" onclick="askQuestion('What products do you offer?')"> Product Catalog </button> <button class="quick-question-btn" onclick="askQuestion('How much do door rollers cost?')"> Pricing Information </button> <button class="quick-question-btn" onclick="askQuestion('Do you deliver nationwide?')"> Delivery Options </button>
+    </div>
+    <div class="chatbot-input"><input type="text" id="chatInput" placeholder="Ask me anything about our products..." class="chat-input"> <button id="sendMessage" class="send-btn">
+      <svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" />
+      </svg></button>
+    </div>
+   </div>
+  </div><!-- Enhanced Custom Cursor -->
+  <div id="customCursor" class="custom-cursor">
+   <div class="cursor-shine"></div>
+   <div class="cursor-dot"></div>
+   <div class="cursor-ring"></div>
+  </div>
+  <script>
+        // Enhanced Product Database with New Categories
+        const productPrices = {
+            'door-rollers': {
+                '40mm': 200,
+                '50mm': 250,
+                '60mm': 300,
+                '70mm': 390,
+                '80mm': 400,
+                '90mm': 550,
+                '100mm': 650
+            },
+            'welding': {
+                '2.5mm Rod': 500,
+                '3.2mm Rod': 1000,
+                'Welding Handle': 150,
+                'Welding Machine': 8000
+            },
+            'tools': {
+                'Grinding Machine': 7000,
+                'Heavy Duty Rotary Tool 230MM': 7500,
+                'Drilling Machine': 3000,
+                'Spray Gun': 1500,
+                'Metal Work Disc 4.5"': 150,
+                'Metal Work Disc 7"': 250,
+                'Metal Work Disc 9"': 400,
+                'Flap Finishing Disc 4.5"': 200,
+                'Flap Finishing Disc 7"': 300,
+                'Diamond Finish Disc 6"': 350,
+                'Diamond Finish Disc 9"': 500
+            },
+            'electrode-holders': {
+                'Black Electrode Holder 500A': 800,
+                'Black Electrode Holder 800A': 1200,
+                'Hand Grip (Workshop Use)': 300
+            },
+            'paint-sprayers': {
+                'Compact Electric Paint Sprayer': 2500,
+                'Industrial Paint Sprayer (Large)': 4500,
+                'Manual Spray Applicator': 800
+            },
+            'fasteners': {
+                'Expansion Anchor Bolt 10x100': 80,
+                'Expansion Anchor Bolt 10x80': 70,
+                'Bolt Size Range 8x25每8x100': 30,
+                'Bolt Size Range 10x25每10x100': 40,
+                'Bolt Size Range 12x25每12x100': 50,
+                'Bolt Size Range 14x25每14x100': 60,
+                'Flat Washer Sizes M8每M16': 20,
+                'Nut Sizes M8每M16': 25,
+                'Fiberboard Nail Sizes 4x25MM每4x50MM': 15,
+                'Plastic Expansion Plug 6x50MM每6x60MM': 10,
+                'Expansion Nail With Screw M8': 35,
+                'Fixed Bolt M6每M12': 45,
+                'Hook Bolt M6每M8': 40,
+                'MDF Board Screws': 800,
+                'Gypsum Board Screws': 1000,
+                'Metal Door Hinges': 150,
+                'Bearing Clamp': 200
+            },
+            'pipes': {
+                'Single Roller Sizes 30MM每100MM': 200,
+                'Double Roller Sizes 25MMH每55MMH': 350,
+                'Conji (Connector) Sizes 160每300': 100,
+                'Orange Rolling Wheel 3 Inch': 180,
+                'Metal Guider (Incomplete) 25x40MM每40x60MM': 120,
+                'Metal Guider (Complete) 25x40MM每40x60MM': 200,
+                'Sliding Window Roller 25MMH': 250,
+                'Sliding Window Roller 19MMH': 220
+            },
+            'safety': {
+                'Protective Face Shield': 500,
+                'Pressure Gauge Meter': 800,
+                'Electric Spark Tool': 300
+            },
+            'decorative': {
+                'Decorative Iron Flowers': 150
+            }
+        };
+
+        // Enhanced Chatbot with Updated Contact Information
+        const chatbot = {
+            responses: {
+                'what products do you offer?': {
+                    text: "We offer premium metal solutions including:\n\n? Door Rollers & Wheels (40mm-100mm) - KSh 200-650\n? Welding Materials (HERO brand rods) - KSh 150-8,000\n? Professional Tools & Machines - KSh 1,500-7,500\n? Electrode Holders (500A-800A) - KSh 300-1,200\n? Paint Sprayers (Electric & Manual) - KSh 800-4,500\n? Fasteners & Hardware - Complete range\n? Safety Equipment - Professional grade\n? Decorative Elements - Custom designs\n\nAll products come with quality guarantees and nationwide delivery across Kenya!\n\nCALL NOW: +254 742 388 235 for immediate pricing and availability.",
+                    followUp: "Ready to order? Call +254 742 388 235 or click 'Get Quote' to start your order today!"
+                },
+                'how much do door rollers cost?': {
+                    text: "Door Roller Pricing (Immediate Stock Available):\n\n? 40mm: KSh 200 each\n? 50mm: KSh 250 each\n? 60mm: KSh 300 each\n? 70mm: KSh 390 each\n? 80mm: KSh 400 each\n? 90mm: KSh 550 each\n? 100mm: KSh 650 each\n\nBULK DISCOUNTS: 10% off orders over 50 pieces, 15% off orders over 100 pieces!\n\nCALL +254 742 388 235 NOW to confirm stock and place your order. Same-day delivery in Nairobi!",
+                    followUp: "Don't wait - call +254 742 388 235 now to secure your door rollers at these prices!"
+                },
+                'do you deliver nationwide?': {
+                    text: "YES! Fast nationwide delivery across Kenya:\n\n? Nairobi: Same day delivery (order before 2 PM)\n? Mombasa, Kisumu, Nakuru: 1-2 days\n? Other major towns: 2-3 days\n? Remote areas: 3-4 days\n? FREE delivery on orders over KSh 10,000\n\nWe've successfully delivered to 200+ projects across Kenya in just 4 months!\n\nCALL +254 742 388 235 to arrange delivery to your exact location and get delivery cost estimate.",
+                    followUp: "Call +254 742 388 235 now to confirm delivery times and costs for your specific location!"
+                },
+                'what about welding materials?': {
+                    text: "Premium HERO Welding Supplies (In Stock Now):\n\n? HERO Welding Rod 2.5mm: KSh 500 per pack\n? HERO Welding Rod 3.2mm: KSh 1,000 per pack\n? Welding Handles: KSh 150 each\n? Professional Welding Machine: KSh 8,000 complete\n? Electrode Holders 500A: KSh 800\n? Electrode Holders 800A: KSh 1,200\n\nHERO brand - Kenya's most trusted welding rods with guaranteed arc stability!\n\nCALL +254 742 388 235 NOW to check stock levels and place your order. Same-day delivery in Nairobi!",
+                    followUp: "Call +254 742 388 235 now to secure your HERO welding supplies at wholesale prices!"
+                },
+                'payment options': {
+                    text: "EASY PAYMENT OPTIONS:\n\nMPESA (Most Popular):\n? Paybill: 400200\n? Account: 1053562\n\nOther Options:\n? Bank transfers\n? Cash on delivery (Nairobi only)\n? Bulk payment plans available\n\nAll prices confirmed before payment!\n\nCALL +254 742 388 235 to confirm your order total and payment method.",
+                    followUp: "Ready to pay? Call +254 742 388 235 now to complete your order!"
+                },
+                'company information': {
+                    text: "Premium Gate and Frame - Kenya's Fastest Growing Metal Supplier:\n\nLocation: Kariobangi North, Nairobi\nGrowth: 4-5 months of explosive expansion\nSales: 3M KES in last 3 months alone\nProjects: 200+ successful completions\nCoverage: All 47 counties in Kenya\nEmail: gateandframe@gmail.com\n\nWe're transforming construction timelines through precision and reliability!\n\nJOIN OUR SUCCESS: Call +254 742 388 235 to become our next success story!",
+                    followUp: "Ready to experience the Premium difference? Call +254 742 388 235 now!"
+                },
+                'quality guarantee': {
+                    text: "100% QUALITY GUARANTEE - NO COMPROMISES:\n\nEvery product tested before shipping\nComprehensive warranties on all items\nFree technical support included\nEasy returns/exchanges within 30 days\n24/7 customer service hotline\nZero defect policy on all HERO products\n\nYour satisfaction is our reputation!\n\nQUALITY CONCERNS? Call +254 742 388 235 - we'll make it right immediately!",
+                    followUp: "Experience guaranteed quality - call +254 742 388 235 to place your risk-free order!"
+                },
+                'bulk orders': {
+                    text: "BULK ORDER SUPER BENEFITS:\n\nMASSIVE DISCOUNTS:\n? 50-99 pieces: 10% off\n? 100-199 pieces: 15% off\n? 200+ pieces: 20% off + FREE delivery\n\nVIP Treatment:\n? Priority delivery scheduling\n? Dedicated account manager\n? Custom specifications available\n? Flexible payment terms\n\nBULK ORDERS: Call +254 742 388 235 NOW for instant wholesale pricing!",
+                    followUp: "Don't miss bulk savings! Call +254 742 388 235 now for your custom wholesale quote!"
+                },
+                'contact information': {
+                    text: "CONTACT PREMIUM GATE AND FRAME:\n\nHOTLINE: +254 742 388 235 (Call NOW!)\nVisit Us: Kariobangi North, Nairobi\nEmail: gateandframe@gmail.com\n\nFollow Our Success:\n? Instagram: @gateandframe_kenya\n? Facebook: Premium Gate and Frame\n? TikTok: @gate.andframe\n? WhatsApp: +254 742 388 235\n\nAvailable: Monday-Saturday 7AM-7PM\n\nCALL +254 742 388 235 RIGHT NOW - Our team is standing by!",
+                    followUp: "Don't wait! Call +254 742 388 235 now - your project can't afford delays!"
+                },
+                'project consultation': {
+                    text: "FREE PROJECT CONSULTATION (Limited Time):\n\nWhat You Get:\n? Technical specifications review\n? Detailed cost estimation\n? Timeline optimization planning\n? Material recommendations\n? Progress tracking support\n? Risk assessment\n\nVALUE: Worth KSh 5,000 - FREE for serious buyers!\n\nBOOK NOW: Call +254 742 388 235 to schedule your FREE consultation today!",
+                    followUp: "Limited slots available! Call +254 742 388 235 NOW to book your FREE consultation!"
+                },
+                'urgent orders': {
+                    text: "URGENT ORDERS - WE DELIVER:\n\nEMERGENCY SERVICE:\n? Same-day delivery in Nairobi (order by 2 PM)\n? Express delivery nationwide (24-48 hours)\n? Weekend delivery available\n? After-hours pickup at our warehouse\n\nPRIORITY HOTLINE: +254 742 388 235\n\nWhen your project can't wait, we don't make you wait!\n\nURGENT? Call +254 742 388 235 NOW - we'll move mountains to deliver!",
+                    followUp: "Project emergency? Call +254 742 388 235 immediately - we're your solution!"
+                },
+                'stock availability': {
+                    text: "LIVE STOCK STATUS:\n\nIN STOCK NOW:\n? Door Rollers (all sizes): 500+ pieces\n? HERO Welding Rods: 200+ packs\n? Professional Tools: Full range available\n? Electrode Holders: Complete inventory\n? Paint Sprayers: Electric & Manual models\n? Fasteners & Hardware: Complete inventory\n\nStock updated daily - high turnover due to demand!\n\nRESERVE YOURS: Call +254 742 388 235 NOW to reserve your items before they're gone!",
+                    followUp: "Stock moves fast! Call +254 742 388 235 now to secure your materials!"
+                }
+            },
+            
+            findResponse(message) {
+                const msg = message.toLowerCase();
+                
+                // Direct matches
+                for (const [key, response] of Object.entries(this.responses)) {
+                    if (msg.includes(key)) {
+                        return response;
+                    }
+                }
+                
+                // Keyword matching
+                if (msg.includes('price') || msg.includes('cost') || msg.includes('how much')) {
+                    return this.responses['how much do door rollers cost?'];
+                }
+                if (msg.includes('delivery') || msg.includes('shipping') || msg.includes('nationwide')) {
+                    return this.responses['do you deliver nationwide?'];
+                }
+                if (msg.includes('welding') || msg.includes('rod') || msg.includes('hero') || msg.includes('electrode')) {
+                    return this.responses['what about welding materials?'];
+                }
+                if (msg.includes('payment') || msg.includes('mpesa') || msg.includes('pay')) {
+                    return this.responses['payment options'];
+                }
+                if (msg.includes('quality') || msg.includes('guarantee') || msg.includes('warranty')) {
+                    return this.responses['quality guarantee'];
+                }
+                if (msg.includes('bulk') || msg.includes('wholesale') || msg.includes('large order')) {
+                    return this.responses['bulk orders'];
+                }
+                if (msg.includes('contact') || msg.includes('phone') || msg.includes('email')) {
+                    return this.responses['contact information'];
+                }
+                if (msg.includes('consultation') || msg.includes('project') || msg.includes('help')) {
+                    return this.responses['project consultation'];
+                }
+                if (msg.includes('company') || msg.includes('about') || msg.includes('business')) {
+                    return this.responses['company information'];
+                }
+                
+                // Default response
+                return {
+                    text: "I'd love to help you with that!\n\nI can assist with:\n? Product information & pricing\n? Delivery options\n? Payment methods\n? Quality guarantees\n? Project consultations\n\nTry asking about our products, pricing, or delivery options!",
+                    followUp: "What specific information can I help you find today?"
+                };
+            }
+        };
+
+        // Navigation System
+        function navigateToPage(pageId) {
+            // Hide all pages
+            document.querySelectorAll('.page-section').forEach(page => {
+                page.classList.remove('active');
+            });
+            
+            // Show target page
+            document.getElementById(pageId + '-page').classList.add('active');
+            
+            // Update navigation
+            document.querySelectorAll('.nav-link').forEach(link => {
+                link.classList.remove('active');
+            });
+            
+            document.querySelectorAll(`[data-page="${pageId}"]`).forEach(link => {
+                link.classList.add('active');
+            });
+            
+            // Close mobile menu
+            document.getElementById('mobileMenu').classList.add('hidden');
+        }
+
+        // Navigation event listeners
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function() {
+                const pageId = this.getAttribute('data-page');
+                navigateToPage(pageId);
+            });
+        });
+
+        // Mobile menu toggle
+        document.getElementById('mobileMenuBtn').addEventListener('click', function() {
+            document.getElementById('mobileMenu').classList.toggle('hidden');
+        });
+
+        // Enhanced Product Estimator
+        function initializeEstimator() {
+            const categorySelect = document.getElementById('productCategory');
+            const sizeSelect = document.getElementById('productSize');
+            const quantityInput = document.getElementById('productQuantity');
+            
+            if (!categorySelect || !sizeSelect || !quantityInput) return;
+            
+            categorySelect.addEventListener('change', function() {
+                const category = this.value;
+                
+                sizeSelect.innerHTML = '<option value="">Select Size...</option>';
+                sizeSelect.disabled = !category;
+                
+                if (category && productPrices[category]) {
+                    Object.keys(productPrices[category]).forEach(size => {
+                        const option = document.createElement('option');
+                        option.value = size;
+                        option.textContent = size;
+                        sizeSelect.appendChild(option);
+                    });
+                    sizeSelect.disabled = false;
+                }
+                
+                updateEstimate();
+            });
+            
+            sizeSelect.addEventListener('change', updateEstimate);
+            quantityInput.addEventListener('input', updateEstimate);
+        }
+
+        // Fixed Smart Order Estimator
+        function initializeSmartEstimator() {
+            const categorySelect = document.getElementById('productCategory');
+            const sizeSelect = document.getElementById('productSize');
+            const quantityInput = document.getElementById('productQuantity');
+            
+            if (!categorySelect || !sizeSelect || !quantityInput) {
+                console.log('Estimator elements not found, retrying...');
+                setTimeout(initializeSmartEstimator, 1000);
+                return;
+            }
+            
+            categorySelect.addEventListener('change', function() {
+                const category = this.value;
+                
+                sizeSelect.innerHTML = '<option value="">Select Size...</option>';
+                sizeSelect.disabled = !category;
+                
+                if (category && productPrices[category]) {
+                    Object.keys(productPrices[category]).forEach(size => {
+                        const option = document.createElement('option');
+                        option.value = size;
+                        option.textContent = size;
+                        sizeSelect.appendChild(option);
+                    });
+                    sizeSelect.disabled = false;
+                }
+                
+                updateEstimate();
+            });
+            
+            sizeSelect.addEventListener('change', updateEstimate);
+            quantityInput.addEventListener('input', updateEstimate);
+        }
+
+        function updateEstimate() {
+            const category = document.getElementById('productCategory').value;
+            const size = document.getElementById('productSize').value;
+            const quantity = parseInt(document.getElementById('productQuantity').value) || 0;
+            const estimateDiv = document.getElementById('priceEstimate');
+            
+            if (category && size && quantity && productPrices[category] && productPrices[category][size]) {
+                const unitPrice = productPrices[category][size];
+                const total = unitPrice * quantity;
+                estimateDiv.innerHTML = `Estimated Total: <span class="text-green-400">KSh ${total.toLocaleString()}</span>`;
+                estimateDiv.classList.add('price-glow');
+            } else {
+                estimateDiv.textContent = 'Select products to see estimate';
+                estimateDiv.classList.remove('price-glow');
+            }
+        }
+
+        // Quote Modal Functions
+        function openQuoteModal(productName) {
+            document.getElementById('modalProduct').value = productName;
+            document.getElementById('quoteModal').classList.add('active');
+        }
+
+        function closeQuoteModal() {
+            document.getElementById('quoteModal').classList.remove('active');
+        }
+
+        function addToEstimator(productName) {
+            navigateToPage('products');
+            setTimeout(() => {
+                document.querySelector('.estimator-card').scrollIntoView({ behavior: 'smooth' });
+            }, 500);
+        }
+
+        // Form Submissions
+        document.getElementById('quoteForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const submitBtn = document.getElementById('submitBtn');
+            const submitText = document.getElementById('submitText');
+            const submitSpinner = document.getElementById('submitSpinner');
+            
+            // Show loading state
+            submitBtn.disabled = true;
+            submitText.textContent = 'Sending...';
+            submitSpinner.classList.remove('hidden');
+            
+            // Submit form
+            fetch(this.action, {
+                method: 'POST',
+                body: new FormData(this),
+                headers: {
+                    'Accept': 'application/json'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    // Show success message
+                    document.getElementById('orderReference').textContent = 'QR-' + Date.now();
+                    document.getElementById('successMessage').classList.remove('hidden');
+                    this.reset();
+                    showToast('Quote request sent successfully!', 'success');
+                } else {
+                    throw new Error('Network response was not ok');
+                }
+            }).catch(error => {
+                showToast('Error sending request. Please try again.', 'error');
+            }).finally(() => {
+                // Reset button state
+                submitBtn.disabled = false;
+                submitText.textContent = 'Send Quote Request';
+                submitSpinner.classList.add('hidden');
+            });
+        });
+
+        document.getElementById('quickQuoteForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            fetch(this.action, {
+                method: 'POST',
+                body: new FormData(this),
+                headers: {
+                    'Accept': 'application/json'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    closeQuoteModal();
+                    showToast('Quote request sent successfully!', 'success');
+                    this.reset();
+                } else {
+                    throw new Error('Network response was not ok');
+                }
+            }).catch(error => {
+                showToast('Error sending request. Please try again.', 'error');
+            });
+        });
+
+        // Toast Notifications
+        function showToast(message, type = 'success') {
+            const toast = document.createElement('div');
+            toast.className = `toast ${type === 'success' ? 'bg-green-500' : 'bg-red-500'}`;
+            toast.textContent = message;
+            
+            document.body.appendChild(toast);
+            
+            setTimeout(() => toast.classList.add('show'), 100);
+            setTimeout(() => {
+                toast.classList.remove('show');
+                setTimeout(() => document.body.removeChild(toast), 300);
+            }, 3000);
+        }
+
+        // Close modal when clicking outside
+        document.getElementById('quoteModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeQuoteModal();
+            }
+        });
+
+        // Newsletter Form
+        document.getElementById('newsletterForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const button = this.querySelector('button[type="submit"]');
+            const btnText = button.querySelector('.newsletter-btn-text');
+            const spinner = button.querySelector('.newsletter-spinner');
+            
+            // Show loading state
+            button.disabled = true;
+            btnText.textContent = 'Subscribing...';
+            spinner.classList.remove('hidden');
+            
+            fetch(this.action, {
+                method: 'POST',
+                body: new FormData(this),
+                headers: {
+                    'Accept': 'application/json'
+                }
+            }).then(response => {
+                if (response.ok) {
+                    document.getElementById('newsletterSuccess').classList.remove('hidden');
+                    this.reset();
+                    showToast('Successfully subscribed to newsletter!', 'success');
+                } else {
+                    throw new Error('Network response was not ok');
+                }
+            }).catch(error => {
+                showToast('Error subscribing. Please try again.', 'error');
+            }).finally(() => {
+                button.disabled = false;
+                btnText.textContent = 'Subscribe to Updates';
+                spinner.classList.add('hidden');
+            });
+        });
+
+        // Enhanced Chatbot Event Listeners
+        document.getElementById('chatToggle').addEventListener('click', function() {
+            const chatWindow = document.getElementById('chatWindow');
+            const chatIcon = this.querySelector('.chat-icon');
+            const closeIcon = this.querySelector('.close-icon');
+            
+            if (chatWindow.classList.contains('hidden')) {
+                chatWindow.classList.remove('hidden');
+                setTimeout(() => chatWindow.classList.add('show'), 10);
+                chatIcon.classList.add('hidden');
+                closeIcon.classList.remove('hidden');
+            } else {
+                chatWindow.classList.remove('show');
+                setTimeout(() => chatWindow.classList.add('hidden'), 300);
+                chatIcon.classList.remove('hidden');
+                closeIcon.classList.add('hidden');
+            }
+        });
+
+        function askQuestion(question) {
+            const chatMessages = document.getElementById('chatMessages');
+            const chatInput = document.getElementById('chatInput');
+            
+            // Add user message
+            const userMessage = document.createElement('div');
+            userMessage.className = 'message user-message';
+            userMessage.innerHTML = `<div class="message-content">${question}</div>`;
+            chatMessages.appendChild(userMessage);
+            
+            // Get bot response
+            setTimeout(() => {
+                const response = chatbot.findResponse(question);
+                const botMessage = document.createElement('div');
+                botMessage.className = 'message bot-message';
+                botMessage.innerHTML = `
+                    <div class="message-content">
+                        <p style="white-space: pre-line;">${response.text}</p>
+                        ${response.followUp ? `<p class="mt-2 text-sm opacity-75">${response.followUp}</p>` : ''}
+                    </div>
+                `;
+                chatMessages.appendChild(botMessage);
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            }, 500);
+            
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+            chatInput.value = '';
+        }
+
+        document.getElementById('sendMessage').addEventListener('click', function() {
+            const chatInput = document.getElementById('chatInput');
+            const message = chatInput.value.trim();
+            if (message) {
+                askQuestion(message);
+            }
+        });
+
+        document.getElementById('chatInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                const message = this.value.trim();
+                if (message) {
+                    askQuestion(message);
+                }
+            }
+        });
+
+        // Enhanced Custom Cursor with Metal Shine
+        const cursor = document.getElementById('customCursor');
+        const cursorDot = cursor.querySelector('.cursor-dot');
+        const cursorRing = cursor.querySelector('.cursor-ring');
+        const cursorShine = cursor.querySelector('.cursor-shine');
+
+        let mouseX = 0;
+        let mouseY = 0;
+        let cursorX = 0;
+        let cursorY = 0;
+        let shineX = 0;
+        let shineY = 0;
+
+        document.addEventListener('mousemove', function(e) {
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+        });
+
+        function animateCursor() {
+            const dotSpeed = 1;
+            const ringSpeed = 0.15;
+            const shineSpeed = 0.08;
+            
+            cursorX += (mouseX - cursorX) * ringSpeed;
+            cursorY += (mouseY - cursorY) * ringSpeed;
+            shineX += (mouseX - shineX) * shineSpeed;
+            shineY += (mouseY - shineY) * shineSpeed;
+            
+            cursorDot.style.left = mouseX + 'px';
+            cursorDot.style.top = mouseY + 'px';
+            cursorRing.style.left = cursorX + 'px';
+            cursorRing.style.top = cursorY + 'px';
+            cursorShine.style.left = shineX + 'px';
+            cursorShine.style.top = shineY + 'px';
+            
+            requestAnimationFrame(animateCursor);
+        }
+        animateCursor();
+
+        // Cursor hover effects
+        document.addEventListener('mouseenter', function(e) {
+            if (e.target.matches('a, button, .nav-link, .cta-button-premium, .social-link, .footer-link, .chatbot-toggle, .quick-question-btn')) {
+                cursor.classList.add('cursor-hover');
+            }
+        }, true);
+
+        document.addEventListener('mouseleave', function(e) {
+            if (e.target.matches('a, button, .nav-link, .cta-button-premium, .social-link, .footer-link, .chatbot-toggle, .quick-question-btn')) {
+                cursor.classList.remove('cursor-hover');
+            }
+        }, true);
+
+        document.addEventListener('mousedown', function() {
+            cursor.classList.add('cursor-click');
+        });
+
+        document.addEventListener('mouseup', function() {
+            cursor.classList.remove('cursor-click');
+        });
+
+        // Initialize page
+        document.addEventListener('DOMContentLoaded', function() {
+            // Set initial page
+            navigateToPage('home');
+            
+            // Add smooth scrolling
+            document.documentElement.style.scrollBehavior = 'smooth';
+            
+            // Initialize smart estimator
+            initializeSmartEstimator();
+        });
+    </script>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'998ba03d176550d4',t:'MTc2MjE3MDMzMS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
